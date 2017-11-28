@@ -12,3 +12,4 @@
 
 ## Open questions
 - Bleu score: should references be in a list? Plot makes more sense when references are not in a list.
+- Is the idea good? Would this be sufficient for project?
