@@ -1,7 +1,7 @@
 # Encoder-Decoder model with attention
 
 ## Ideas
-- Create other (better?) measure than BLEU: compute e.g. Euclidean distance of context vectors.
+- Create other (better?) measure than BLEU: compute e.g. Euclidean distance or cosine similarity of context vectors.
 - See if this new measure is similar to what BLEU finds
 
 
