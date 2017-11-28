@@ -33,3 +33,9 @@ Command to preprocess the TED data, both English and Dutch:
 python bleuscore.py
 ```
 (should be extended to accept arguments etc.)
+
+Note that inside folder `OpenNMT-py` some folders can be ignored (these are for educational purposes): we don't use `data`, `test`, and some other files. 
+
+In `trained_models` there are two models: the one starting with `ted` is the one we need.
+
+I used `txtdata` to play around, this can be ignored.
