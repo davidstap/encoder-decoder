@@ -95,6 +95,7 @@ class Translator(object):
         _, src_lengths = batch.src
         src = onmt.IO.make_features(batch, 'src')
         encStates, context = self.model.encoder(src, src_lengths)
+        #pakken
         decStates = self.model.decoder.init_decoder_state(
                                         src, context, encStates)
 

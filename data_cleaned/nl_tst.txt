@@ -1,0 +1,1181 @@
+Dit is James Risen .
+Je kent hem wellicht als de journalist die de Pulitzer Price won voor The New York Times .
+Jaren voordat we Edward Snowdens naam leerden kennen , schreef Risen een boek waarin hij glorieus blootlegde dat de NSA illegaal telefoons van Amerikanen aftapte .
+Maar een ander hoofdstuk in dat boek had nog veel meer impact .
+Daarin beschrijft hij een catastrofale operatie waarin de CIA bijna letterlijk blauwdrukken van een nucleaire bom overhandigde aan Iran .
+Als je dat niet gelooft : ga het lezen .
+Het is een ongelooflijk verhaal .
+Raad eens wie dat hoofdstuk niet zo vermakelijk vond ?
+De Amerikaanse overheid .
+Bijna tien jaar lang was Risen vervolgens het doel van een onderzoek van die overheid , waarin aanklagers eisten dat hij zou getuigen tegen iemand die zij als zijn bron verdachten .
+Tijdens dit proces werd hij het gezicht van het recente gebruik van de overheid om klokkenluiders te vervolgen en journalisten te bespioneren .
+Volgens het eerste amendement heeft de pers het recht geheime informatie te delen als dat in het publiek belang is .
+Het is onmogelijk dit recht uit te oefenen als de media dit nieuws niet kunnen verzamelen en de identiteit niet kunnen beschermen van de dappere mannen en vrouwen die hen dit nieuws brengen .
+Dus toen de overheid verhaal kwam halen , deed Risen wat vele dappere journalisten voor hem hebben gedaan : hij weigerde en zei dat hij liever de cel in zou gaan .
+Dus van 2007 tot 2015 leefde Risen onder de constante dreiging naar de staatsgevangenis te gaan .
+Tenminste , tot enkele dagen voor de rechtszaak , toen er iets raars gebeurde .
+Plotseling , nadat ze jaren hadden geroepen hoe belangrijk hij voor hun zaak was , liet de Amerikaanse overheid hun eis dat Risen zou getuigen vallen .
+Het blijkt dat er in deze tijden van elektronische surveillance weinig tot geen plaatsen zijn waar je je als journalist kunt verstoppen .
+Dus in plaats van Risen te proberen te laten getuigen , konden ze zijn digitale spoor tegen hem laten getuigen .
+Geheel in het geheim en zonder zijn toestemming verkregen de aanklagers Risens telefoongegevens .
+Ze kregen zijn e-mailgegevens , zijn financiële- en bankgegevens , zijn kredietgegevens en zelfs reisgegevens met een lijst van zijn vluchten .
+Het was deels deze informatie die gebruikt werd om Jeffrey Sterling te veroordelen , Risens vermoede bron en klokkenluider van de CIA .
+Dit is helaas slechts een van vele zaken .
+President Obama beloofde klokkenluiders te beschermen , maar in plaats daarvan vervolgde zijn rechterlijke macht er meer dan alle andere regeringen samen .
+Je snapt hoe dit een probleem kan zijn , zeker omdat de overheid veel van wat het doet als geheim beschouwt .
+Sinds 9/11 is bijna elk belangrijk verhaal over nationale veiligheid gepubliceerd dankzij een klokkenluider die naar een journalist toekwam .
+We lopen het risico dat de pers het werk niet kan doen dat het eerste amendement juist hoort te beschermen , omdat de overheid iedereen mag en kan bespioneren .
+Maar net zoals de technologie de overheid de mogelijkheid gaf de rechten van journalisten te omzeilen , zo kan de pers de technologie beter dan ooit gebruiken om hun bronnen te beschermen .
+Dit kunnen zij doen vanaf het moment dat het eerste contact wordt gelegd in plaats van nadien in de getuigenbank .
+Er bestaat nu communicatiesoftware die niet beschikbaar was toen Risen zijn boek schreef , en het is veel veiliger dan reguliere e-mails en telefoontjes .
+Zo n hulpmiddel is bijvoorbeeld SecureDrop , een open source uploadsysteem voor klokkenluiders , oorspronkelijk gecreëerd door internetpionier Aaron Swartz , dat nu verder wordt ontwikkeld bij de stichting waar ik werk : Freedom of the Press Foundation .
+In plaats van een e-mail te sturen ga je naar de website van een nieuwsorganisatie , bijvoorbeeld zoals hier , The Washington Post .
+Hier kun je documenten uploaden of informatie sturen zoals je via elk ander contactformulier zou doen .
+Het wordt versleuteld en opgeslagen op een server waar alleen de nieuwsorganisatie toegang toe heeft .
+De overheid kan dan niet langer in het geheim de informatie opeisen , en veel van de informatie die ze zouden opeisen zou niet eens beschikbaar zijn .
+SecureDrop is slechts een klein gedeelte van de puzzel om persvrijheid in de 21ste eeuw te beschermen .
+Helaas ontwikkelen overheden over de hele wereld constant nieuwe surveillance technologieën die een gevaar vormen voor ons allemaal .
+Het is onze taak om door te gaan en te zorgen dat het niet alleen de technisch handige klokkenluiders zoals Edward Snowden zijn die iets kenbaar kunnen maken .
+Het is net zo belangrijk dat we een nieuwe klokkenluider beschermen , bijvoorbeeld een gezondheidsmedewerker die ons wijst op overvolle ziekenhuizen , of een toekomstige milieuspecialist die een alarm luidt over verontreinigd water in Flint , of iemand van Wall Street die ons waarschuwt voor een nieuwe financiële crisis .
+Want deze hulpmiddelen zijn niet alleen voor dappere mensen gemaakt die misdaden aan de kaak stellen , maar ze zijn er om al onze rechten te beschermen .
+Dankjewel .
+[ Op 3 April 2016 waren we getuige van het grootste datalek in de geschiedenis . ]
+De publicatie van deze Panamese documenten geeft ons een kijkje achter de schermen van de geheimzinnige offshorewereld .
+We krijgen een idee van hoe klanten , banken en advocaten naar bedrijven als Mossack Fonseca gaan en zeggen : OK , wij willen een anoniem bedrijf , kunt u dat regelen ?
+Je krijgt echt de e-mails te zien , je ziet hoe berichten worden uitgewisseld , je krijgt te zien hoe deze processen verlopen , hoe dit werkt .
+Dit heeft direct al geleid tot concrete gevolgen .
+De premier van IJsland heeft ontslag genomen .
+We hebben ook vernomen dat een bondgenoot van de wrede Syrische dictator Bashar Al-Assad ook offshorebedrijven heeft .
+Ook zou er wellicht sprake zijn van een geldstroom van 2 miljard dollar die leidt naar Vladimir Poetin , de president van Rusland , via zijn jeugdvriend , een topcellist .
+Er zullen zeker een hoop rijke personen zijn die met het zweet in de handen de berichtenstroom en de volgende serie gelekte documenten zullen volgen .
+Het lijkt wel het plot van een spionagethriller of een roman van John Grisham .
+Het lijkt zo n ver-van-m n-bed-show voor jou , mij , gewone mensen .
+Wat kan het ons verder schelen ?
+Het punt is dat als machtige individuen hun geld offshore kunnen parkeren , in plaats van te belasting betalen zoals zou moeten , er minder geld beschikbaar is voor essentiële openbare diensten zoals gezondheidszorg , scholen en wegen .
+Dat raakt ons allemaal .
+Voor mijn organisatie , Global Witness , is dit soort ontmaskering natuurlijk fantastisch .
+De media en de politieke leiders in de hele wereld praten nu over hoe individuen de offshoregeheimhouding gebruiken om hun bezittingen te verbergen -- iets waar wij al tien jaar over praten en iets aan proberen te doen .
+Nu denk ik dat veel mensen die wereld verwarrend en onduidelijk vinden , en dat het lastig is om te begrijpen hoe die offshore-industrie werkt .
+Ik vergelijk het graag met een set Russische poppetjes .
+Je hebt een bedrijf dat zit verborgen in een ander bedrijf , dat weer verborgen zit in een derde bedrijf .
+Zo wordt het bijna onmogelijk te begrijpen wie er achter die constructies zit .
+Het kan heel moeilijk zijn voor rechtshandhavers of belastingdiensten , journalisten of de burgermaatschappij , om er echt de vinger achter te krijgen .
+Het is interessant om te zien dat hier in de Verenigde Staten minder aandacht voor is .
+Misschien is dat omdat er nog geen prominente mensen uit de VS een rol hebben gespeeld in deze ontmaskering , in dit schandaal .
+Nu is dat niet omdat rijke Amerikanen hun geld niet offshore verbergen .
+Dat zit hem gewoon in de manier waarop offshore werkt .
+Mossack Fonseca heeft minder Amerikaanse klanten .
+Ik denk dat als we lekken uit de Kaaimaneilanden zouden zien , of zelfs uit Delaware , Wyoming of Nevada , we veel meer gevallen van betrokken Amerikanen zouden zien .
+In een aantal staten in de VS heb je zelfs minder informatie nodig , hoef je minder informatie te verschaffen om een bedrijf op te richten dan om een bibliotheekkaart te krijgen .
+Dat soort geheimhouding zorgt ervoor dat personeel van schooldistricten schoolkinderen kan oplichten .
+Daardoor hebben oplichters kwetsbare investeerders kunnen bestelen .
+Dit soort gedrag raakt ons allemaal .
+Hier bij Global Witness wilden we wel eens zien hoe dat er in de praktijk uitzag .
+Hoe gaat dat feitelijk in zijn werk ?
+Dus stuurden we een undercoveronderzoeker naar 13 advocatenkantoren in Manhattan .
+Onze onderzoeker deed zich voor als een Afrikaanse minister die verdachte gelden de VS in wou loodsen om een huis , een jacht , een vliegtuig mee te kopen .
+Het was schokkend om te zien dat al die advocaten , op één na , onze onderzoeker suggesties deden over hoe die gelden de VS in te krijgen .
+Het ging altijd om oriënterende gesprekken en we zijn niet echt klant geworden , laat staan dat er echt geld werd overgemaakt , maar het toont wel het probleem in het systeem .
+Het is ook belangrijk dit niet als individuele gevallen te zien .
+Dit gaat niet over één specifieke advocaat die met onze onderzoeker sprak en suggesties deed .
+Dit gaat niet over één politicus in het bijzonder die betrokken raakt in een schandaal .
+Dit gaat over hoe een systeem werkt waarin corruptie , belastingontduiking , armoede en instabiliteit zijn verankerd .
+Om dit aan te pakken moet er iets structureel veranderen .
+We zullen de regels van het spel moeten veranderen om dit soort gedrag te bemoeilijken .
+Dit mag allemaal heel somber lijken , alsof we er niets aan kunnen doen , alsof er toch nooit iets veranderd , want er zullen toch altijd rijke , machtige personen zijn .
+Maar als geboren optimist zie ik signalen die duiden op het begin van verandering .
+De laatste paar jaar zien we echt een beweging richting meer tranparantie waar het gaat om eigendomsstructuur .
+Het werd echt op de politieke agenda gezet door premier David Cameron van Groot-Brittannië op een grote G8-conferentie in Noord-Ierland in 2013 .
+Sinds toen is de Europese Unie bezig om in ieder land centrale registers op te zetten over wie nu precies de bedrijven in Europa bezit en aanstuurt .
+Eigenlijk is het heel triest dat de VS hierin achterloopt .
+Er is breed ondersteunde wetgeving geïntroduceerd in het Congres en de Senaat , maar die maakt nog niet de vorderingen die we graag willen zien .
+We zouden dus graag zien dat de Panamalekken , dit buitengewone inkijkje in de offshorewereld , zorgen voor meer openheid in de VS en de hele wereld .
+Voor ons bij Global Witness is dit een moment voor verandering .
+De gewone mensen zullen boos moeten worden over de manier waarop de rijken hun identiteit kunnen verstoppen achter geheime bedrijven .
+Leidende zakenlui zullen moeten ingrijpen en zeggen : Geheimhouding is niet goed voor onze bedrijven .
+Onze politieke leiders zullen het probleem moeten onderkennen en zich verplichten tot wetsveranderingen die dit soort geheimhouding tegengaan .
+Samen kunnen we de verbergcultuur een halt toeroepen die op dit moment gelegenheid geeft tot belastingontduiking , corruptie en witwaspraktijken .
+Ik wil jullie vertellen over die keer dat ik bijna ontvoerd werd in de achterbak van een rode Mazda .
+Het was de dag nadat ik afstudeerde van de kunstacademie en ik een tuinverkoop hield .
+Er stopt een gozer in een rode Mazda en hij begint m n spullen te bekijken .
+Hij koopt een kunstwerk dat ik gemaakt heb .
+Blijkt dat hij die avond alleen in de stad verblijft , het land doorkruisend met de auto , voordat hij het vredeskorps ingaat .
+Dus nodig ik hem uit voor een biertje en hij vertelt me over zijn passie om een verschil te maken in de wereld .
+Het wordt een latertje en ik ben best wel moe .
+Als ik om de rekening wenk , maak ik een fout en vraag hem : Waar ga je overnachten ?
+En hij doet er nog een schepje bovenop : Geen idee , nog niet over nagedacht .
+En ik denk : Nee , man !
+Wat doe je dan ?
+We hebben het allemaal wel meegemaakt .
+Laat ik die gozer hier slapen ?
+Ik bedoel , ik ken hem net , hij zegt dat hij naar het vredeskorps gaat , maar is dat ook zo ?
+Ik wil niet ontvoerd worden in de achterbak van die Mazda .
+Dat is een kleine achterbak !
+Dan hoor ik mezelf zeggen : Ik heb een luchtbed waar je op kan slapen in de woonkamer .
+Een stemmetje in mijn hoofd zegt : Wacht even , wat ?
+Die nacht lig ik in mijn bed , ik staar naar het plafond en denk : Mijn god , waar ben ik mee bezig ?
+Er ligt een complete vreemdeling in mijn woonkamer te slapen .
+Misschien is het wel een psychopaat .
+Ik word opeens zo bang dat ik uit m n bed sluip , op m n tenen naar de deur loop en mijn slaapkamerdeur op slot doe .
+Blijkt dat hij geen psychopaat was .
+We hebben nog steeds contact .
+Het kunstwerk dat hij van mij had gekocht , hangt in zijn klaslokaal ; hij is nu leraar .
+Dit was mijn eerste verhuurervaring en het heeft mijn perspectief volledig veranderd .
+Misschien waren de mensen die in mijn jeugd het etiket vreemdeling kregen , eigenlijk vrienden die ik nog moest leren kennen .
+Ik wende al snel aan het idee om mensen bij me te laten logeren en toen ik naar San Francisco verhuisde , bracht ik het luchtbed met me mee .
+Dan is het twee jaar later .
+Ik ben werkloos en bijna blut .
+Mijn huisgenoot vertrekt en de huur wordt verhoogd .
+Ik hoor dat er een kunstconferentie in onze stad wordt gehouden en alle hotels zijn volgeboekt .
+Ik heb altijd geloofd dat het omzetten van angst in plezier de gift is van creativiteit .
+Dit zei ik tegen mijn beste vriend en nieuwe kamergenoot Brian Chesky : Brian , ik wil wat bijverdienen -- we maken van onze woning een designers bed and breakfast .
+We bieden jonge ontwerpers een slaapplaats , compleet met draadloos internet , een klein bureau , een luchtbed en elke ochtend een ontbijt .
+Ha !
+We maakten een eenvoudige website en Airbed and Breakfast was geboren .
+Drie gelukkige gasten verbleven op luchtbedden van 20 dollar op de hardhouten vloer .
+Ze vonden het geweldig en wij ook .
+Ik zweer het , de omeletten met ham en kaas smaakten totaal anders , want we maakten ze voor onze gasten .
+We maakten uitstapjes met ze in onze stad , en toen we onze laatste gast gedag zeiden en de deur dicht hoorden gaan , staarden Brian en ik elkaar aan .
+Hebben we zojuist ontdekt dat het mogelijk is om vrienden te maken en tegelijkertijd geld te verdienen ?
+Zo begon het balletje te rollen .
+Mijn oude kamergenoot , Nate Blecharczyk , deed met ons mee als technisch medeoprichter .
+We gingen ons best doen om er een bedrijf van te maken .
+Dit vertelden we aan investeerders : We willen een website maken waar mensen openlijk foto s tonen van de meest intieme ruimtes , hun slaapkamers en badkamers -- de kamers waarvan je de deuren meestal dichthoudt als je visite hebt .
+Dan gaan ze via het internet totale vreemdelingen uitnodigen om in hun huizen te logeren .
+Het wordt fantastisch !
+We leunden achterover en wachtten op de enorme toeloop .
+Er gebeurde niets .
+Geen normaal mens zou in een dienst investeren die vreemdelingen toestaat om bij iemand thuis te slapen .
+Waarom ?
+Toen we klein waren leerden we dat een vreemdeling gevaar betekent .
+Als je met een probleem te maken krijgt , val je terug op wat je weet en wij hadden kennis van ontwerpen .
+Op de kunstacademie leer je dat een ontwerp veel meer is dan hoe iets eruit ziet en hoe het voelt -- het is de gehele ervaring .
+We leerden dat over voorwerpen , maar hier probeerden we een enorm vertrouwen te creëren tussen mensen die elkaar niet kennen .
+Kan ontwerpen ons daarbij helpen ?
+Is het mogelijk om te ontwerpen voor vertrouwen ?
+Ik wil jullie een idee geven van het soort vertrouwen dat we graag wilden bereiken .
+Ik heb een experiment van 30 seconden dat je even uit je comfortzone zal halen .
+Doe je duim omhoog als je mee wil doen .
+Nu wil ik dat je je telefoon pakt .
+Nu je je telefoon erbij hebt , wil ik dat je het wachtwoord intypt .
+Geef nu je telefoon aan de persoon die links naast je zit .
+Dat hele kleine beetje paniek dat je nu voelt -- is precies hoe je je voelt als je voor de eerste keer gasten krijgt .
+Want het enige ding dat meer privé is dan je telefoon , is je huis .
+Mensen zien niet alleen je berichtjes , ze zien je slaapkamer , je keuken en je toilet .
+Hoe voelt het nu om in iemands telefoon te kunnen kijken ?
+De meesten voelen zich verantwoordelijk .
+Zo voelen de meeste gasten zich als ze in je huis verblijven .
+En alleen hierom kan ons bedrijf bestaan .
+Ben even benieuwd , wie heeft de telefoon van Al Gore ?
+Wil je even tweeten dat hij voor het presidentschap gaat ?
+Je mag de telefoon nu weer teruggeven .
+Nu je hebt ervaren welk een vertrouwensuitdaging wij aan moesten gaan , wil ik een paar ontdekkingen die we deden met jullie delen .
+Als we nu eens een klein ding zouden veranderen aan het ontwerp van dat experiment ?
+Als je buurman zich eerst had voorgesteld , met zijn naam , waar hij vandaan komt , de naam van zijn kinderen of zijn hond ?
+Stel je voor dat ze 150 recensies zouden hebben met : Ze zijn betrouwbaar als ze je telefoon vasthouden !
+Hoe zou je je nu voelen als je je telefoon moet afgeven ?
+Het blijkt dat een goed ontworpen reputatie-systeem belangrijk is voor het uitstralen van vertrouwen .
+De eerste keer deden we het niet goed .
+Mensen vinden het lastig om slechte recensies achter te laten .
+Uiteindelijk hebben we geleerd te wachten tot zowel de gast als de verhuurder een recensie schrijven , voordat we ze publiceren .
+Het volgende hebben we pas vorige week ontdekt .
+We hebben gezamenlijk met Stanford bestudeerd hoe bereidwillig mensen zijn om anderen te vertrouwen op basis van overeenkomst in leeftijd , locatie en geografie .
+Het onderzoek toonde aan , en dit was geen verrassing , dat we de voorkeur geven aan mensen die op ons lijken .
+Hoe meer verschillend we zijn , des te minder we diegene vertrouwen .
+Dit is een natuurlijk sociaal effect .
+Het is interessant wat er gebeurt als je reputatie aan deze mix toevoegt , in dit geval de recensies .
+Als je minder dan drie recensies hebt , verandert er niets .
+Als je er meer dan tien hebt , verandert alles .
+Goede reputatie verslaat soortgelijkheid .
+Het juiste ontwerp kan ons wezenlijk helpen onze diepste vooroordelen te verslaan .
+We leerden ook dat om genoeg vertrouwen op te bouwen , je de juiste hoeveelheid informatie moet geven .
+Dit gebeurt er als een gast de verhuurder voor de eerste keer mailt .
+Als je te weinig informatie geeft , zoiets als Yo !
+Als je teveel informatie geeft , zoals : Ik heb ruzie met m n moeder , gaan de acceptatiecijfers omlaag .
+Maar er is een gebied waar het precies goed is , zoals : Ik vind jullie kunst mooi .
+Dus , hoe ontwerpen we voor de juiste hoeveelheid informatie ?
+Door de grootte van dit venster geven we de juiste lengte aan en we geven ideeën over wat je over jezelf kunt vertellen .
+We bouwden ons hele bedrijf op de hoop dat we met het juiste design de vooroordelen over vreemdelingen zouden overwinnen .
+Wat we niet beseften , is hoeveel mensen er wel niet klaar voor waren om die vooroordelen naast zich neer te leggen .
+Deze grafiek geeft onze adoptiesnelheid aan .
+Er gebeuren drie dingen .
+De eerste is een enorme hoeveelheid geluk .
+De tweede is het harde werk van ons team .
+De derde is het bestaan van een behoefte waar niet eerder in werd voorzien .
+Veel dingen gaan heel erg goed .
+Er gaan duidelijk ook weleens dingen niet goed .
+Gasten hebben niet toegestane feesten gegeven en huizen vernield .
+Verhuurders hebben gasten in de kou laten staan .
+In de begintijden was ik de klantenservice en die telefoontjes kwamen direct op m n mobieltje binnen .
+Ik stond aan de frontlinie van vertrouwensschade .
+Niets is erger dan die telefoontjes , het doet zelfs pijn als ik er aan denk .
+En die teleurstelling in het stemgeluid van mensen was , en dat is het nog steeds , onze grootste motivatie om te blijven verbeteren .
+Gelukkig verloopt van alle 123 miljoen nachten die we ooit verhuurden , minder dan een fractie van een procent problematisch .
+Het blijkt dat het vertrouwen van mensen gerechtvaardigd is .
+En als dat vertrouwen goed uitpakt , kan het echt heel magisch zijn .
+We hadden eens een gast met een verhuurder in Urugay en hij kreeg een hartaanval .
+De verhuurder bracht hem met spoed naar het ziekenhuis .
+Hij gaf z n eigen bloed af voor de operatie .
+Ik zal jullie zijn recensie voorlezen .
+Uitstekend huis voor luie reizigers die vatbaar zijn voor een hartinfarct .
+Het ligt in een schitterend gebied op steenworp afstand van het ziekenhuis .
+Javier en Alejandra veranderen onmiddellijk in beschermengelen die je leven redden zonder dat ze je kennen .
+Ze brengen je met hun eigen auto naar het ziekenhuis terwijl je doodgaat en blijven in de wachtkamer zitten terwijl je een bypass krijgt .
+Ze willen niet dat je je alleen voelt en ze brengen je boeken .
+Ze laten je langer in hun huis verblijven zonder er extra geld voor te vragen .
+Zeker aan te raden !
+Natuurlijk verloopt niet elk verblijf zo .
+Maar de band die uit de transactie voorkomt , is precies dat waarop de deeleconomie zich richt .
+Toen ik die term hoorde , moet ik eerlijk toegeven , was ik het even kwijt .
+Hoe verhouden delen en transacties zich tot elkaar ?
+Laten we duidelijk zijn ; het gaat om commercie .
+Maar als je het zou bestempelen als de verhuurderseconomie zou dat niet compleet zijn .
+De deeleconomie is commercie met de belofte van menselijke connecties .
+Mensen delen iets van zichzelf en dat verandert alles .
+Je weet hoe reizen vandaag de dag gaat , het doet me denken aan fastfood -- het is efficient en voorspelbaar , ten koste van lokaal en authentiek .
+Als reizen nu eens uit een grandioos buffet zou bestaan van lokale ervaringen ?
+Als er nu eens overal waar je naartoe reist een grote markt zou zijn waar lokale mensen je aanbieden om je dronken te maken tijdens een kroegentocht in buurten waarvan je niet wist dat ze bestonden .
+Of kooklessen van een chef van een 5-sterrenrestaurant ?
+Huizen worden nu ontworpen rond het idee van privacy en afzondering .
+Als we nu eens zouden ontwerpen voor het delen van huizen ?
+Hoe zou dat eruit zien ?
+En als steden de deelcultuur zouden aanmoedigen ?
+Ik zie een toekomst van gedeelde steden waar we ons meer verbonden zullen voelen , in plaats van geïsoleerd en gescheiden .
+In Seoul in Zuid-Korea zijn ze daar zelfs al mee begonnen .
+Honderden overheidsparkeerplaatsen worden hergebruikt en met de bewoners gedeeld .
+Ze brengen woningzoekende studenten in contact met mensen van wie de kinderen het huis uit zijn .
+En ze zijn een incubator gestart om fondsen te genereren voor de volgende generatie start-ups in de gedeelde economie .
+Door onze diensten alleen al zullen vanavond 785.000 mensen in 191 landen in een huis van een vreemdeling verblijven of iemand verwelkomen in hun huis .
+Blijkbaar is het niet zo vreemd als wat ons werd geleerd .
+We hebben niets nieuws uitgevonden .
+Gastvrijheid heeft altijd al bestaan .
+Er zijn veel websites als de onze .
+Waarom werd de onze dan uiteindelijk zo populair ?
+Geluk en timing even terzijde , ik leerde dat je gebaseerd op de onderdelen van vertrouwen een ontwerp kunt maken .
+Design kan onze diepgewortelde angst voor vreemden overwinnen .
+Ik vind het verbazingwekkend .
+Ik sta er helemaal versteld van .
+Ik denk er elke keer aan als ik een rode Mazda zie .
+Nu weten we dat design niet alle problemen de wereld uit helpt .
+Maar als het hierbij helpt , als dit zo n groots effect heeft , dan vraag ik me af : waar kunnen we nog meer voor ontwerpen ?
+Dank jullie wel .
+Waar denk je aan als je mij ziet ?
+Een gelovige vrouw ?
+Misschien zelfs een naaste ?
+Of denk je onderdrukt , gehersenspoeld , ... een terrorist .
+Of : wéér zo n probleemgeval op het vliegveld .
+Dat is trouwens waar .
+Als je negatieve ideeën kreeg , neem ik je dat niet eens kwalijk .
+Dat is nu eenmaal hoe de media berichten over ons soort mensen .
+Uit onderzoek is gebleken dat 80 procent van het nieuws over de Islam en moslims negatief is .
+Ook is gebleken dat de meeste Amerikanen geen moslims zeggen te kennen .
+Blijkbaar praten zij nooit met hun Uberchauffeurs .
+Welnu , voor wie nog nooit een moslim heeft ontmoet : aangenaam kennis te maken .
+Ik zal even zeggen wie ik ben .
+Ik ben een moeder , koffieliefhebber -- dubbele espresso , slagroom apart .
+Ik ben introvert .
+Ik ben een wannabe-fitnessfanaat én ik ben moslim in hart en nieren .
+Maar niet omdat ik , zoals Lady Gaga zegt , born this way ben .
+Het was een keuze .
+Op mijn zeventiende besloot ik uit de kast te komen .
+Nee , niet als homo , zoals sommige van mijn vrienden , maar als moslim , en ik besloot voortaan een hoofddoek te dragen .
+Mijn feministische vrienden waren ontzet : Waarom onderwerp je jezelf ?
+Grappig genoeg was het destijds eerder een feministische onafhankelijkheidsverklaring tegen de druk die ik als 17-jarige voelde om me te schikken naar perfecte en onbereikbare schoonheidsidealen .
+Ik nam niet lijdelijk het geloof van mijn ouders over .
+Ik worstelde met de Koran .
+Ik las , dacht na , stelde vragen , twijfelde , en geloofde pas na dit alles .
+Mijn relatie met God was geen liefde op het eerste gezicht .
+Het was een langzame overgave , waarbij mijn vertrouwen toenam naarmate ik de Koran vaker las .
+De ritmische schoonheid ervan roert mij soms tot tranen .
+Ik herken mijzelf erin .
+Heb je ooit het gevoel gehad dat iemand je ziet , volledig begrijpt , en toch van je houdt ?
+Zó voelt het namelijk .
+Wat later trouwde ik en begon , zoals alle goede Egyptenaren , een carrière als ingenieur .
+Ik kreeg na mijn trouwen een kind en leefde als het ware de Egyptisch-Amerikaanse droom .
+En toen was er die verschrikkelijke ochtend in september 2001 .
+Velen van jullie zullen waarschijnlijk nog precies weten waar zij die ochtend waren .
+Ik zelf zat in de keuken te ontbijten , toen ik op tv opeens de woorden Breaking News zag staan .
+Rook , vliegtuigen die gebouwen in vlogen , mensen die uit die gebouwen sprongen ...
+Wat was er aan de hand ?
+Was het een ongeluk ?
+Een defect ?
+De schrik sloeg bij mij snel om in verontwaardiging .
+Wie doet er nu zoiets ?
+Ik zap naar een andere zender en hoor : ... moslimterrorist ... , ... in naam van de Islam ... , ... Midden-Oosterse afkomst ... , ... jihad ... , ... bommen op Mekka gooien .
+Oh mijn God .
+Niet alleen was mijn land aangevallen , maar in een flits hadden de daden van een ander mij veranderd van een burger ... in een verdachte .
+Diezelfde dag nog moesten wij heel Midden-Amerika doorrijden om naar een nieuwe stad te verhuizen en daar te gaan studeren .
+Ik herinner me nog dat ik achterin zat terwijl we in stilte reden , zo ver mogelijk ineengedoken op mijn stoel .
+Voor het eerst in mijn leven was ik bang dat iemand zou zien dat ik een moslim was .
+Die nacht betrokken we ons appartement in een nieuwe stad , in wat voelde als een compleet andere wereld .
+En toen hoorde , zag en las ik waarschuwingen van nationale moslimorganisaties .
+Dingen als : Wees alert , Wees bedacht , Mijd slechtverlichte plaatsen en Kom niet samen .
+Ik bleef heel de week binnen .
+De vrijdag diezelfde week : de dag waarop moslims bijeenkomen om hun geloof te belijden .
+Opnieuw overal waarschuwingen : Ga niet , die eerste vrijdag ; het zou een doelwit kunnen zijn .
+Overal op het nieuws werd er aandacht aan besteed .
+De emoties waren rauw , en begrijpelijk ...
+Ook hoorde ik over aanvallen op moslims , of mensen die men aanzag voor moslims , die op straat in elkaar geslagen werden .
+Brandbommen in moskeeën .
+Ik dacht : laten we maar thuisblijven .
+Toch knaagde die gedachte aan me .
+De mensen die ons land hadden aangevallen , vielen namelijk ook míjn land aan .
+Ik begrijp dat mensen woedend waren op de terroristen .
+Maar raad eens ?
+Om jezelf dan constant te moeten verdedigen , is niet makkelijk .
+Vragen vind ik niet erg ; ik ben er dol op .
+Maar beschuldigingen vallen me zwaar .
+Tegenwoordig horen we mensen daadwerkelijk dingen zeggen als : Het probleem in dit land zijn de moslims .
+Wanneer worden we van hen verlost ?
+En dus willen sommigen moslims verbannen en moskeeën sluiten .
+Zij spreken over mijn gemeenschap als een tumor in het lichaam van Amerika .
+En de enige vraag die rest : is die goedaardig of kwaadaardig ?
+Want weet je , een kwaadaardige tumor haal je in zijn geheel weg en een goedaardige houd je alleen in de gaten .
+Deze mogelijkheden slaan nergens op , want de vraag klopt niet .
+Moslims zijn net als iedere Amerikaan niet een túmor in het lichaam van Amerika , maar een essentieel orgaan .
+Dank je wel .
+Moslims zijn uitvinders en leraren , eerstehulpverleners en Olympische atleten .
+Gaat het sluiten van moskeeën Amerika nu echt veiliger maken ?
+Er komt misschien wat meer parkeergelegenheid , maar terrorisme stopt er niet mee .
+Sterker nog : regelmatig moskeebezoek wordt in verband gebracht met tolerantere denkbeelden over andere geloofsovertuigingen en grotere maatschappelijke betrokkenheid .
+Zoals een politiechef in Washington DC mij onlangs zei : Radicalisering vindt niet plaats in moskeeën .
+Mensen radicaliseren in hun kelder of slaapkamer achter een computerscherm .
+Wat je zoal zult vinden over het radicaliseringsproces , is dat het online begint , maar nog dáárvoor worden mensen geïsoleerd van hun gemeenschap , zelfs van hun familie .
+Zodat de extremisten hen kunnen hersenspoelen en laten geloven dat zij , de terroristen , de échte moslims zijn , en dat iedereen die hun gedrag en ideologie verafschuwt , een verrader of afvallige is .
+Als we radicalisering dus willen voorkomen , moeten we mensen juist toestaan naar de moskee te gaan .
+Nu zullen sommigen Islam nog steeds bestempelen als gewelddadig geloof .
+Groepen als ISIS baseren hun gruweldaden immers op de Koran .
+Als moslim , moeder en mens vind ik dat we er alles aan moeten doen groepen als ISIS te stoppen .
+We zouden hun beweringen enkel kracht bijzetten als wij ze neerzetten als vertegenwoordigers van een geloof met 1,6 miljard aanhangers .
+Dank je wel .
+ISIS heeft net zoveel met de Islam te maken als de Ku Klux Klan met het christendom .
+Beide groeperingen beweren hun ideologieën uit hun heilige boek te halen .
+Maar nadere inspectie laat zien dat hun motieven niet voortkomen uit wat ze lézen in hun heilige boek .
+Het is hun wreedheid die ervoor zorgt dat zij de geschriften zo interpreteren .
+Onlangs vertelde een bekende imam mij een verhaal dat mij diep raakte .
+Er was een meisje bij hem gekomen , omdat ze overwoog bij ISIS te gaan .
+Ik was erg verbaasd en vroeg hem of zij in contact was geweest met een radicale godsdienstig leider ?
+Hij zei dat dat nu juist het probleem was .
+Iedere geestelijke met wie ze had gepraat , had haar de mond gesnoerd en gezegd dat haar woede , haar gevoel van oneerlijkheid in de wereld haar enkel problemen zou brengen .
+En doordat ze dus haar woede nergens kon onderbrengen , liep zij groot gevaar in handen te vallen van extremisten die haar een oplossing zouden beloven .
+Deze imam bracht haar weer terug bij God en bij haar gemeenschap .
+Hij veroordeelde haar woede niet -- hij reikte haar juist manieren aan om de wereld echt te veranderen .
+Wat zij in die moskee leerde , voorkwam dat zij zich bij ISIS aansloot .
+Ik vertelde jullie al hoe islamofobie van invloed is op mij en mijn gezin .
+Maar hoe beïnvloedt het de doorsnee Amerikaan ?
+Hoe beïnvloedt het ieder ander ?
+Wat voor effect heeft het 24 uur per dag in angst zitten op onze democratie , op hoe vrij ons denken nog is ?
+Welnu , neurowetenschappelijk onderzoek wijst uit dat wanneer we bang zijn , er minstens drie dingen gebeuren .
+We aanvaarden dan eerder een autoritair systeem , conformiteit en vooroordelen .
+Eén onderzoek toonde aan dat wanneer proefpersonen nieuwsberichten zagen die negatief waren over moslims , zij eerder instemden met militaire aanvallen op moslimlanden en met beleid dat de rechten van Amerikaanse moslims aan banden legt .
+Dit is niet enkel theorie .
+Wanneer we kijken naar wanneer antimoslimgevoelens hevig toenamen -- tussen 2001 en 2013 gebeurde dit drie keer -- maar niet rondom terroristische aanslagen .
+Het was in de aanloop naar de oorlog in Irak en tijdens twee verkiezingsrondes .
+Islamofobie is dus niet alleen de natuurlijke reactie op moslimterrorisme , zoals ik zou verwachten .
+Het kan zelfs als middel dienen voor publieke manipulatie , waarmee de fundering wordt aangetast van een vrije maatschappij , die bestaat uit rationele en welingelichte burgers .
+Moslims zijn als kanaries in kolenmijnen .
+Wij zijn dan wel de eersten die het voelen , maar de giftige dampen van angst schaden ons allemaal .
+Collectieve schuldtoekenning betekent niet alleen dat je jezelf constant moet verdedigen .
+Deah en zijn vrouw Yusor waren een jong getrouwd stel dat woonde in Chapel Hill , North Carolina , waar beiden naar school gingen .
+Deah was een atleet .
+Hij leerde voor tandarts , was getalenteerd en veelbelovend .
+Zijn zus vertelde me dat hij de liefste en gulste persoon was die zij kende .
+Tijdens een bezoek aan hem liet hij haar zijn cv zien , en ze was onder de indruk .
+Ze zei : Wanneer werd mijn kleine broertje zo n volleerde jonge man ?
+Enkele weken na Suzanne s bezoek aan haar broer en zijn kersverse vrouw werden zij door hun buurman , Craig Stephen Hicks , vermoord , samen met Yusors zus , Razan , die daar s middags op bezoek was .
+In hun appartement , als ware het een executie , nadat Craig anti-moslimuitspraken op zijn Facebookpagina had gedaan .
+Hij schoot acht keer op Deah .
+Fanatisme is dus niet alleen immoreel , maar mogelijk zelfs fataal .
+Terug naar mijn verhaal .
+Wat gebeurde er na 9/11 ?
+Gingen we naar de moskee of bleven we veilig thuis ?
+Welnu , we bespraken het uitvoerig , en het lijkt misschien onbenullig , maar voor ons ging het om het Amerika dat wij onze kinderen wilden nalaten : een waarin wij geleid zouden worden door angst of een waarin wij ons geloof vrij zouden praktiseren .
+En dus gingen we naar de moskee .
+We zetten mijn zoon in de auto , deden hem zijn gordel om , en reden in stilte , gespannen naar de moskee .
+Ik haalde hem uit de auto , deed mijn schoenen uit , liep de gebedsruimte in ... en keek stomverbaasd om me heen .
+De ruimte zat vol met mensen .
+En toen deed de imam een mededeling .
+Hij bedankte en verwelkomde onze gasten , want de helft van de menigte bestond uit christenen , joden , boeddhisten , atheïsten , gelovige en niet-gelovige mensen , die niet waren gekomen om ons aan te vallen , maar om ons te steunen .
+Op dat moment stortte ik gewoon in .
+Deze mensen waren daar omdat zij moed en medeleven verkozen boven paniek en vooroordelen .
+Wat zou jij kiezen ?
+Wat kies jij in deze tijden van angst en onverdraagzaamheid ?
+Ga je voor veilig ?
+Of voeg je je bij degenen die zeggen hier staan wij boven ?
+Dank je wel .
+Hartelijk bedankt .
+Helen Walters : Dalia , je lijkt een gevoelige snaar te hebben geraakt .
+Maar ik vraag me af : Wat zou je de mensen zeggen die aanvoeren dat je een TED-talk geeft , dat je duidelijk slim bent , in een superieure denktank werkt , een uitzondering bent en niet de regel .
+Wat zou je die mensen zeggen ?
+Dalia Mogahed : Ik zou zeggen , laat dit podium je niet misleiden , ik ben als ieder ander .
+Ik ben geen uitzondering .
+Mijn verhaal is niet uitzonderlijk .
+Ik ben zo normaal als maar zijn kan .
+Als je moslims over heel de wereld bekijkt -- en dat heb ik gedaan : het grootste onderzoek ooit naar moslims wereldwijd -- mensen willen normale dingen .
+Ze willen voorspoed voor hun gezin , een vaste baan , en ze willen in vrede leven .
+Ik ben dus op geen enkele manier een uitzondering .
+Als iemand een uitzondering op de regel lijkt te zijn , is dat vaak omdat de regel stuk is , niet omdat zij een uitzondering zijn .
+HW : Hartelijk bedankt .
+Wat startte als platform voor hobbyisten staat op het punt om een miljardenindustrie te worden .
+Inspectie , milieucontrole , fotografie , film en journalistiek : het zijn mogelijke toepassingen voor commerciële drones .
+Ze worden mogelijk gemaakt in onderzoekscentra over de hele wereld .
+Voordat bezorgdiensten via de lucht ons sociale bewustzijn binnenkwamen , bouwde een zelfstandige vloot van machines een toren van zes meter , bestaande uit 1500 stenen voor een live publiek bij het FRAC Centrum in Frankrijk .
+Een paar jaar geleden gingen ze met touw vliegen .
+Door ze samen te binden , kunnen ze in kleine ruimtes hoge snelheden en versnelling ontwikkelen .
+Ze kunnen ook zelfstandig gespannen structuren bouwen .
+Ze hebben geleerd lading te tillen , met turbulentie om te gaan .
+In het algemeen : hoe om te gaan met de fysieke wereld .
+We willen je vandaag een paar van onze projecten laten zien .
+Hun doel is om de grens te verleggen van wat mogelijk is met zelfstandig vliegen .
+Om een systeem zelfstandig te laten vliegen , moet het collectief de positie weten van zijn mobiele onderdelen in de lucht In ons lab bij ETH Zürich , gebruiken we externe camera s om voorwerpen te localiseren , wat ons in staat stelt ons te richten op de snelle ontwikkeling van zeer dynamische taken .
+Maar voor de demo s van vandaag gebruiken we nieuwe localiseertechnologie van Verity Studios , een spin-off van ons lab .
+Zonder externe camera s .
+Elke machine heeft sensors aan boord om zijn locatie te bepalen , en berekent zelf welke actie moet plaatsvinden .
+Externe opdrachten zijn er alleen op hoger niveau , zoals opstijgen en landen .
+Het is een tail-sitter .
+Een vliegmachine die probeert twee vliegen in een klap te slaan .
+Net als andere vliegtuigen is het efficiënt in voorwaartse vlucht , meer dan helicopters en afgeleiden daarvan .
+In tegenstelling tot andere met vaste vleugels , kan het stilstaan in de lucht , wat grote voordelen biedt bij opstijgen en landen en voor zijn veelzijdigheid .
+Er zijn helaas ook nadelen .
+Een van de nadelen bij tail-sitters is de gevoeligheid , zoals bij windstoten .
+We ontwikkelen nieuwe besturingsalgoritmes om dat te verbeteren .
+Het idee is dat de machine zich herstelt ongeacht in welke positie hij is .
+Bij research stellen we onszelf abstracte basisvragen die tot de kern van de zaak moeten leiden .
+Zo n vraag is bijvoorbeeld : wat is het minimum aan bewegende delen om beheerst te vliegen ?
+Er zijn praktische redenen waarom je hier een antwoord op zou willen .
+Helikopters bijvoorbeeld staan genoegzaam bekend als machines met duizenden bewegende delen .
+die samenzweren om je kwaad te doen .
+Het bleek dat decennia geleden ervaren piloten modelvliegtuigen konden besturen die maar twee bewegende delen hadden : een propeller en een staartroer .
+We ontdekten kortgeleden dat het met één deel kon .
+Dit is de monospinner , de mechanisch simpelste bestuurbare vliegmachine , pasgeleden uitgevonden .
+Er beweegt maar één onderdeel : een propeller .
+Het heeft geen kleppen , scharnieren , rolroeren , geen scharnieren of stuurvlakken , alleen een simpele propeller .
+Ondanks zijn mechanische eenvoud , gaat er heel wat om in zijn elektronische brein om het stabiel te laten vliegen in de gewenste richting .
+Toch heeft het niet de slimme algoritmes van de tail-sitter .
+Om hem goed te laten vliegen moet ik hem precies goed gooien .
+En omdat de kans klein is dat ik goed gooi , terwijl iedereen zit te kijken , laat ik een filmpje zien dat we gisteravond hebben opgenomen .
+Als de monospinner een oefening is in eenvoud , is deze machine , de omnicopter , met z n acht propellers , een oefening in overvloed .
+Wat kan je met die overvloed doen ?
+Let op de symmetrie .
+Hij is tegenstrijdig in zijn oriëntatie .
+Hij krijgt daardoor een bijzondere eigenschap .
+Hij kan overal naartoe bewegen .
+Het maakt niet uit waar hij naartoe gericht is , zelfs niet hoe hij roteert .
+Natuurlijk is hij complex , vooral door de interactieve stromen van zijn acht propellers .
+Sommige dingen worden vooraf ingesteld ; de rest wordt tijdens de vlucht geleerd .
+Laten we eens kijken .
+Als vliegmachines deel gaan uitmaken van ons dagelijks leven , moeten ze extreem veilig en betrouwbaar worden .
+Deze machine is eigenlijk twee gescheiden vliegmachines met twee propellers .
+Deze wil met de klok mee draaien .
+De andere wil tegen de klok in draaien .
+Aan elkaar gedragen ze zich als een eersteklas quadrocopter .
+Maar als er iets misgaat -- uitval van een motor , propeller , elektronica , of zelf de accu , kan de machine nog steeds vliegen , ondanks de handicap .
+We demonstreren dat nu door een helft uit te schakelen .
+Deze laatste demonstratie is de verkenning van een kunstmatige zwerm .
+Het grote aantal zelfstandig coördinerende eenheden biedt een nieuw palet om je esthetisch te uiten .
+We hebben commercieel verkrijgbare micro-quadcopters genomen , elk nog lichter dan een boterham , en rustten ze uit met localiseertechnologie en speciale algoritmes .
+Omdat elke unit weet waar hij zich bevindt , en zelfsturend is , is er geen beperking in het aantal .
+Hopelijk zetten deze demonstraties je aan nieuwe revolutionaire ideeën voor vliegmachines te bedenken .
+Deze zeer veilige bijvoorbeeld , zou een vliegende schemerlamp kunnen worden op Broadway .
+Maar het is moeilijk de impact te voorspellen van deze technologie .
+Voor mensen als wij is de beloning de reis ernaartoe en het creëren .
+Het herinnert ons er constant aan hoe mooi en magisch het universum is waarin we leven , dat het creatieve , slimme wezens in staat stelt om het op spectaculaire wijze te vormen .
+Het feit dat deze technologie zo n enorme commerciële en economische potentie heeft is de kers op de taart .
+Dank je wel .
+1,3 miljard jaar geleden , in een ver , ver sterrenstelsel , raakten twee zwarte gaten verstrengeld in een spiraal .
+Ze cirkelden onverbiddelijk naar elkaar toe , botsten en zetten een massa van drie zonnen om in pure energie in 1/10 van een seconde .
+Op dat korte moment was hun gloed helderder dan die van alle sterren in alle sterrenstelsels in het hele bekende universum .
+Het was een zeer grote knal .
+Maar hun energie kwam niet vrij als licht .
+Ik bedoel , het waren zwarte gaten .
+Al die energie werd in het weefsel van ruimte en tijd zelf gepompt , wat het hele heelal liet zinderen in gravitatiegolven .
+Ik geef u een idee van de tijdschaal : 1,3 miljard jaar geleden was de aarde net toe aan meercellig leven .
+Sindsdien heeft de aarde koralen , vissen , planten , dinosaurussen , mensen en zelfs -- God helpe ons -- het internet voortgebracht .
+Ongeveer 25 jaar geleden vond een bijzonder ondernemende groep mensen -- Rai Weiss aan het MIT , Kip Thorne en Ronald Drever bij Caltech -- dat het erg leuk zou zijn om een gigantische laserdetector te bouwen om te zoeken naar gravitatiegolven van dingen zoals botsende zwarte gaten .
+De meeste mensen dachten dat ze gek waren .
+Maar genoeg mensen beseften dat ze briljante gekken waren .
+De Amerikaanse National Science Foundation besloot om hun gekke idee te financieren .
+Na tientallen jaren van ontwikkeling , constructie en verbeelding , en een adembenemende hoeveelheid hard werken , bouwden ze hun detector : LIGO .
+Het Laser Interferometer Gravitational-Wave Observatorium .
+De afgelopen jaren is de nauwkeurigheid van LIGO enorm toegenomen , het detectievermogen is enorm verbeterd .
+Het wordt nu Advanced LIGO genoemd .
+Begin september 2015 werd LIGO aan een laatste test onderworpen terwijl ze nog wat losse eindjes wegwerkten .
+En op 14 september 2015 , slechts enkele dagen nadat de detector was aangezet , passeerden de gravitatiegolven uit die botsende zwarte gaten door de aarde .
+En ze gingen door jou en door mij .
+En door de detector .
+Scott Hughes : Er waren in mijn leven twee momenten meer emotioneel dan dat .
+Het ene is de geboorte van mijn dochter .
+Het andere toen ik afscheid moest nemen van mijn ongeneeslijk zieke vader .
+Het was in principe de eindafrekening van mijn carrière .
+Alles waar ik aan gewerkt had was niet langer science fiction !
+Hij bestudeert gravitatiegolven uit zwarte gaten en de signalen die ze veroorzaken op observatoria zoals LIGO al 23 jaar .
+Wat bedoel ik nu met een gravitatiegolf ?
+Een gravitatiegolf is een rimpel in het ruimte-tijd continuüm .
+Als de golf passeert , rekt ze de ruimte en alles erin uit in één richting en comprimeert ze de ruimte in de andere .
+Dit heeft talloze leraars van de algemene relativiteitstheorie aangezet om het met een gek dansje in hun lessen te demonstreren .
+Het strekt zich en breidt zich uit , het strekt zich en breidt zich uit .
+Het probleem met gravitatiegolven is dat ze zeer zwak zijn , belachelijk zwak .
+Zo deden bijvoorbeeld de golven die ons op 14 september troffen -- ja , ieder van jullie werd uitgerekt en samengedrukt door die golf -- de gemiddelde persoon uitrekken en samendrukken met één op 10 tot de 21e deeltje .
+Dat is een getal met 20 nullen en één 1 achter de komma .
+Daarom dacht iedereen dat de mensen van LIGO gek waren .
+Zelfs met een laserdetector van vijf kilometer lang -- dat is al gek -- moesten ze de lengte van deze detectoren meten tot op minder dan één duizendste van de straal van de kern van een atoom .
+Dat is belachelijk .
+Tegen het einde van zijn klassieke tekst over de zwaartekracht beschreef LIGO medestichter Kip Thorne de jacht op gravitatiegolven als volgt : De technische moeilijkheden die overwonnen moeten worden bij de bouw van dergelijke detectoren zijn enorm .
+Maar natuurkundigen zijn ingenieus en met de ondersteuning van een groot lekenpubliek zullen alle obstakels zeker worden overwonnen .
+Thorne publiceerde dat in 1973 , 42 jaar voordat hij erin slaagde .
+Nu terug naar LIGO .
+Scott zegt graag dat LIGO eerder als een oor werkt dan als een oog .
+Ik leg uit wat dat betekent .
+Zichtbaar licht heeft een golflengte , een grootte , die veel kleiner is dan de dingen om je heen , de trekken op de gezichten van mensen of de grootte van je mobiele telefoon .
+Erg handig , want daardoor kun je de dingen om je heen in kaart brengen aan de hand van het licht van verschillende plekken in je directe omgeving .
+Geluid is anders .
+Hoorbaar geluid heeft een golflengte die tot 20 meter lang kan zijn .
+Dat maakt het echt moeilijk -- in praktische toepassingen in feite onmogelijk -- om een afbeelding te maken van iets waar je echt om geeft .
+Zoals het gezicht van je kind .
+In plaats daarvan gebruiken we geluid om te luisteren naar zaken als toonhoogte , toon , ritme en volume om een verhaal uit de geluiden af te leiden .
+Hier praat Alice .
+Bob onderbreekt .
+Gekke Bob .
+Hetzelfde geldt voor gravitatiegolven .
+We kunnen ze niet gebruiken om eenvoudige beelden van dingen in het heelal te maken .
+Maar door te luisteren naar veranderingen in amplitude en frequentie van de golven , kunnen we het verhaal horen dat die golven vertellen .
+In ieder geval voor LIGO zijn de frequenties die het kan horen in de bandbreedte van de audio .
+Als we de golfpatronen in drukgolven in lucht omzetten , in geluid dus , kunnen we letterlijk het heelal tot ons horen spreken .
+Door bijvoorbeeld op deze manier naar zwaartekracht te luisteren , kunnen we veel leren over de botsing van twee zwarte gaten , iets waar mijn collega Scott ontzettend lang over heeft nagedacht .
+SH : Als de twee zwarte gaten niet draaien , krijg je een heel eenvoudige tjilp : woep !
+Als ze zeer snel draaien , krijg je diezelfde tjilp , maar met een modulatie erbovenop .
+Dat geeft : wir , wir , wirrep !
+Een soort draai -woordenschat geënt op deze golfvorm .
+AA : Op 14 september 2015 , een datum die onuitwisbaar in mijn geheugen zit , hoorde LIGO dit : [ Geluid ] Voor een geoefend luisteraar is dit het geluid van -- SH : ... twee zwarte gaten , elk ongeveer 30 zonsmassa s , die rond wervelden met een snelheid vergelijkbaar met wat er in je blender gebeurt .
+AA : Even pauzeren om na te denken over wat dat betekent .
+Twee zwarte gaten , de dingen met de grootste dichtheid in het heelal , één met een massa van 29 zonnen en één met een massa van 36 zonnen , wervelen 100 keer per seconde rond elkaar voordat ze met elkaar botsen .
+Stel je dat geweld eens voor .
+Het is fantastisch .
+En we weten het omdat we het hoorden .
+Dat is het blijvende belang van LIGO .
+Het is een geheel nieuwe manier om het heelal te observeren die we nooit eerder hebben gehad .
+We kunnen luisteren naar het universum en het onzichtbare horen .
+Er is veel dat we niet kunnen zien -- in de praktijk of zelfs in principe .
+Een supernova , bijvoorbeeld : ik zou graag willen weten waarom zeer massieve sterren ontploffen tot supernova s .
+Ze zijn zeer nuttig .
+We hebben door hen veel over het universum geleerd .
+Maar alle interessante fysica gebeurt in de kern en die kern zit verborgen onder duizenden kilometers ijzer , koolstof en silicium .
+We zullen er nooit doorheen kijken , want het is ondoorzichtig voor licht .
+Gravitatiegolven gaan door ijzer alsof het glas is -- volledig transparant .
+De Big Bang : ik zou graag de eerste paar momenten van het heelal willen onderzoeken , maar we zullen ze nooit zien , omdat de Big Bang zelf door zijn eigen nagloeien wordt verduisterd .
+Maar met gravitatiegolven kunnen we tot aan het begin terugkijken .
+Misschien wel het allerbelangrijkste : ik ben ervan overtuigd dat er daar dingen zijn die we nooit hebben gezien , waarvan we nooit in staat zullen zijn om ze te zien , waaraan we nog niet eens hebben gedacht -- dingen die we alleen zullen ontdekken door te luisteren .
+Zelfs bij die eerste gebeurtenis vond LIGO dingen die we niet verwachtten .
+Hier is mijn collega , een van de belangrijkste leden van de LIGO-groep , Matt Evans , mijn collega aan het MIT .
+Matt Evans : de soorten sterren die de zwarte gaten produceren die we hier observeerden , zijn de dinosaurussen van het universum .
+Het zijn enorme , oude dingen uit de prehistorie en de zwarte gaten zijn net zoiets als dinosaurusbotten waarmee wij aan archeologie doen .
+We kunnen nu vanuit een heel andere hoek kijken naar wat er in het heelal gebeurt .
+Hoe de sterren ontstonden , en uiteindelijk natuurlijk hoe wij tevoorschijn kwamen uit die hele rommel .
+AA : Onze uitdaging is nu de nodige durf aan de dag te leggen .
+Dankzij LIGO kunnen we nu gevoelige detectoren bouwen die naar het universum kunnen luisteren , naar het ruisen en het tjilpen van de kosmos .
+Onze taak is het om te dromen en nieuwe observatoria te bouwen -- een hele nieuwe generatie van observatoria -- op de grond en in de ruimte .
+Ik bedoel , wat is er roemvoller dan naar de Big Bang zelf te luisteren ?
+Onze taak is nu om groots te dromen .
+Droom met ons .
+Dank je .
+Ik heb een tijdje geleden een experiment gedaan .
+Ik zou een jaar lang ja zeggen tegen alles waar ik bang voor was .
+Alles wat me nerveus maakte , waar ik me ongemakkelijk bij voelde : ik moest er ja tegen zeggen .
+Wilde ik praten in het openbaar ?
+Nee , maar ja .
+Wilde ik live op de televisie ?
+Nee , maar ja .
+Wilde ik proberen te acteren ?
+Nee , nee , nee , maar ja , ja , ja .
+Er gebeurde iets heel geks : door te doen waar ik bang voor was , verdween de angst , was ik er niet meer bang voor .
+Mijn angst om te spreken , mijn sociale angst : poefff , weg .
+Ongelooflijk , die kracht van één woord .
+Ja heeft mijn leven veranderd .
+Ja heeft mij veranderd .
+Maar er was één ja in het bijzonder dat mijn leven grondig heeft veranderd , onvoorstelbaar heeft veranderd .
+Het begon met een vraag van mijn peuter .
+Ik heb drie ongelooflijke dochters : Harper , Beckett en Emerson .
+Emerson is een peuter die iedereen om de een of andere reden lieverd noemt , alsof ze een Texaanse serveerster is .
+Zeg lieverd , ik heb melk nodig voor in mijn tuitbeker .
+De Texaanse serveerster vroeg me op een avond om met haar te spelen , terwijl ik ergens heen moest , en ik zei : Ja .
+Dat ja was het begin van een nieuwe leefstijl voor mijn gezin .
+Ik zwoer dat vanaf dat moment , als mijn kinderen me vroegen om met ze te spelen , ongeacht wat ik moest doen of waar ik heen moest , ik iedere keer ja zou zeggen .
+Bijna .
+Het heeft een wonderbaarlijk effect op me , op mijn kinderen , op ons gezin .
+Maar het had ook een indrukwekkend neveneffect dat ik kort geleden pas goed begreep .
+Toen begreep ik pas dat ja zeggen tegen met mijn kinderen spelen waarschijnlijk mijn carrière had gered .
+De meeste mensen zouden zeggen dat ik een droombaan heb .
+Ik ben schrijfster .
+Droombaan .
+Nee .
+Ik ben een titan .
+Droombaan .
+Ik maak televisie .
+Ik maak televisie , heel veel televisie .
+Dit tv-seizoen ben ik op de een of andere manier verantwoordelijk voor het maken van 70 uur televisie .
+Vier tv-programma s , 70 uur tv -- drie of vier series tegelijk in productie .
+Elk programma genereert honderden nieuwe banen .
+Het budget per televisie-aflevering is drie tot zes miljoen dollar ; laten we zeggen vijf .
+Elke negen dagen een nieuwe aflevering voor vier series , dus elke negen dagen 20 miljoen dollar televisie .
+Vier programma s , 70 uur tv , drie of vier series tegelijk in productie , altijd 16 afleveringen in de maak : 24 afleveringen van Grey s , 21 van Scandal , 15 van How To Get Away With Murder , 10 van The Catch , dat is 70 uur tv , dat is 350 miljoen dollar per seizoen .
+In Amerika worden mijn tv-series op donderdagavond achter elkaar uitgezonden .
+Mijn series worden uitgezonden in 256 landen in 67 talen voor 30 miljoen kijkers .
+Ik heb een mondiale geest .
+45 van die 70 uur tv zijn series die ik zelf heb geschreven , niet alleen geproduceerd .
+Vier tv-programma s , 70 uur tv , drie of vier series tegelijk in productie , 350 miljoen dollar , kampvuren over de hele wereld .
+Wie doet dat nog meer ?
+Niemand , daarom ben ik een titan .
+Droombaan .
+Ik zeg dit niet om indruk te maken , maar omdat ik weet wat mensen denken als ze het woord schrijfster horen .
+Ik zeg dit zodat iedereen die zo hard werkt , of je nou een bedrijf runt of een land of een klas of een winkel of een huishouden , me serieus neemt als ik het over werken heb , zodat je begrijpt dat ik niet de hele dag zit te dromen en te typen , zodat je naar me luistert als ik zeg dat ik begrijp dat een droombaan niet gaat over dromen .
+Het is een echte baan , echt werk , echt bloed , echt zweet , geen tranen .
+Ik werk veel , erg hard en ik hou ervan .
+Als ik hard werk , ga ik er helemaal in op en bestaat er niets anders .
+Mijn werk is voor mij altijd een wereld creëren uit het niets .
+Het is de troepen bemannen .
+Het is iedere hoge noot raken .
+Het is Beyoncé zijn .
+Het is al die dingen , maar dan allemaal tegelijk .
+Ik hou van werken .
+Het is creatief en mechanisch en slopend en opwindend en belachelijk en storend en klinisch en moederlijk en wreed en doordacht , en wat het zo heerlijk maakt is de zoem .
+Er gaat een soort knop om in mij als het werk begint te lopen .
+Ik krijg die zoem in mijn hoofd en hij zwelt aan en zwelt aan en die zoem klinkt als de snelweg en ik kan wel blijven gaan .
+Als ik die zoem probeer uit te leggen , denken veel mensen dat ik het over het schrijven heb , dat het schrijven zo leuk is .
+En dat is het natuurlijk ook wel .
+Maar die zoem -- Pas toen ik tv begon te maken , toen ik begon te werken , werken en maken en bouwen en creëren en samenwerken , kreeg ik er voor het eerst mee te maken : die opwinding , die drang , die zoem .
+De zoem is meer dan schrijven .
+De zoem is actie en activiteit .
+De zoem is muziek .
+De zoem is God die zo in mijn oor fluistert .
+Wanneer je zo n zoem hebt , kun je niet anders dan mikken op het hoogste .
+Dat is de zoem .
+Of misschien is het de workaholic .
+Misschien is het genialiteit .
+Of gewoon ego .
+Of faalangst .
+Ik weet het niet .
+Ik weet wel dat ik niet ben gemaakt om te falen en dat ik gek ben op die zoem .
+Ik weet dat ik wil vertellen dat ik een titan ben en ik weet dat ik daar niet aan wil twijfelen .
+Nu kom ik bij mijn punt : hoe succesvoller ik word , hoe meer tv-series , hoe meer afleveringen , hoe meer grenzen verlegd , des te meer werk er nog wacht , des te meer ballen in de lucht , des te meer ogen op mij , des te meer er teruggekeken wordt , des te hoger de verwachtingen zijn .
+Hoe meer ik aan mijn succes werk , des te harder ik moet werken .
+Wat zei ik ook alweer over werk ?
+Ik hou ervan , toch ?
+De wereld die ik bouw , de marathon die ik loop de troepen , het canvas , de hoge noot , de zoem , de zoem , de zoem .
+Ik hou van die zoem , ik ben er gek op .
+Ik heb die zoem nodig , ik ben die zoem .
+Ben ik dan alleen maar die zoem ?
+En toen stopte de zoem .
+Overwerkt , overbelast , kapot , opgebrand .
+De zoem stopte .
+Mijn drie dochters zijn gewend aan het gegeven dat hun moeder een werkende , alleenstaande titan is .
+Harper zegt altijd : Mijn moeder is er niet , sms de oppas maar .
+En Emerson zegt : Zeg lieverd , ik wil naar ShondaLand .
+Kinderen van een titan .
+Het zijn baby-titans .
+Ze waren 12 , 3 en 1 toen de zoem stopte .
+De motor zoemde niet meer .
+Het deed me niets meer .
+De zoem kwam niet terug .
+Mijn zoem was kapot .
+Ik deed nog steeds dezelfde dingen , hetzelfde titanenwerk : 15 uur per dag , ook in het weekend , geen spijt , nooit overgeven , een titan slaapt nooit , geeft nooit op , vastbijten , doorzetten , bla bla bla , noem maar op .
+Maar geen zoem .
+Het bleef stil in mij .
+Vier tv-programma s , 70 uur tv , drie of vier series tegelijk in productie .
+Vier tv-programma s , 70 uur tv , drie of vier series tegelijk in productie .
+Ik was de perfecte titan .
+Ik was een titan waar je mee thuis kon komen .
+Het waren nog dezelfde kleuren , maar ik had er geen plezier meer in .
+En het was mijn leven .
+Ik deed niets anders .
+Ik was de zoem en de zoem was mij .
+Dus wat doe je als het werk waar je van houdt naar stof begint te smaken ?
+Er zijn vast mensen die denken : Zeur niet zo , stomme titan-schrijfster .
+Maar we weten allemaal dat als je maakt , als je werkt , als je houdt van je werk , als leraar , als bankier , als moeder , als schilder , als Bill Gates , of als je gewoon van een ander houdt en dat je die zoem geeft , als je die zoem kent , als je weet hoe hij voelt , als je bij de zoem geweest bent , als hij dan stopt : wie ben je dan ?
+Wat ben je dan ?
+Wat ben ik ?
+Ben ik nog een titan ?
+Als de muziek in mijn hart stopt : overleef ik die stilte ?
+Dan stelt mijn Texaanse peuterserveerster me een vraag .
+Ik wil net gaan , ben al laat , en ze zegt : Mama , zullen we spelen ?
+Ik zeg al bijna nee wanneer ik me twee dingen realiseer .
+Ten eerste hoor ik overal ja op te zeggen en ten tweede noemde ze me geen lieverd .
+Ze noemt niet iedereen lieverd meer .
+Sinds wanneer ?
+Het gaat aan me voorbij omdat ik rouw over mijn zoem terwijl ze zo voor mijn ogen verandert .
+Dus ze zegt : Mama , zullen we spelen ?
+Ik zeg : Ja .
+Niets bijzonders .
+We spelen en haar zussen doen ook mee .
+Er wordt veel gelachen en ik draag iets voor uit het boek Everybody Poops .
+Niets bijzonders .
+En toch is er iets bijzonders , want in mijn pijn en mijn paniek , in die radeloze zoemloosheid , kan ik alleen maar aandachtig zijn .
+Ik ben geconcentreerd .
+Roerloos .
+De wereld die ik bouw , de marathon die ik loop , de troepen , het canvas , de hoge noot : het bestaat niet .
+Alleen plakkerige vingers , natte zoenen , kinderstemmen en kleurpotloden en dat liedje over loslaten , wat dat meisje uit Frozen dan ook los moge laten .
+Een en al rust en eenvoud .
+De lucht is hier zo uitzonderlijk dat ik bijna niet kan ademen .
+Ik geloof haast niet dat ik adem .
+Spel is het tegenovergestelde van werk .
+Ik voel me gelukkig .
+Iets in mij ontspant zich .
+In mijn hersenen klapt een luikje open ; ik krijg een stoot energie .
+Het is niet onmiddellijk , maar het gebeurt .
+Ik voel het .
+Er zoemt weer iets .
+Nog niet sterk , het is nog heel dun , ik moet heel goed luisteren , amper hoorbaar , maar het is er .
+Niet dé zoem , maar een zoem .
+Het voelt alsof ik nu een geheim toverwoord ken .
+Laat ik het niet groter maken dan het is .
+Het is gewoon liefde .
+Geen magie .
+We waren het gewoon vergeten .
+De zoem , de werkzoem , de zoem van de titan , het is maar surrogaat .
+Als ik jullie zou vragen wie ik ben , als ik jullie zou vertellen wie ik ben en ik zou dat doen aan de hand van tv-series en uren tv en hoe ongelooflijk mondiaal mijn geest is , dan ben ik vergeten wat de echte zoem is .
+De zoem is geen macht en hij is niet werk-specifiek .
+De zoem is geluk-specifiek .
+De echte zoem is liefde-specifiek .
+De zoem is de elektriciteit die komt van de opwinding van het leven .
+De echte zoem is vertrouwen en rust .
+De echte zoem maalt niet om andermans oordeel , of van de ballen in de lucht , de verwachting , de druk .
+De echte zoem is enkelvoudig en origineel .
+De echte zoem is God die in mijn oor fluistert , al fluisterde God misschien de verkeerde woorden , want welke God vertelde me dat ik een titan was ?
+Het is gewoon liefde .
+We zouden allemaal wat meer liefde kunnen gebruiken , veel meer liefde .
+Iedere keer dat mijn kind vraagt om te spelen zal ik ja zeggen .
+Ik maak daar een vaste regel van , want daarmee sta ik mezelf toe me te bevrijden van de schuld van de workaholic .
+Het is een regel , dus ik heb geen keus , en ik heb geen keus als ik de zoem wil voelen .
+Ik wilde dat het zo gemakkelijk was , maar ik kan niet zo goed spelen .
+Ik vind het niet leuk .
+Ik vind het niet zo aantrekkelijk als dat ik werken vind .
+De waarheid is heel vernederend om onder ogen te zien .
+Ik speel niet graag .
+Ik werk altijd omdat ik dat leuk vind .
+Ik werk liever dan dat ik thuis ben .
+Het is heel moeilijk om dat onder ogen te zien , want wie werkt er nu liever dan dat hij thuis is ?
+Ik dus .
+Laten we eerlijk zijn , ik noem mezelf een titan .
+Daar moet ik naar laten kijken .
+En niet omdat ik te ontspannen ben .
+We rennen door de tuin , op en neer , op en neer .
+We hebben dansfeestjes van 30 seconden .
+We zingen liedjes , we spelen met ballen .
+Ik blaas bellen en zij prikken ze door .
+Ik voel me stijf en ongemakkelijk en ik raak er van in de war .
+Ik hunker altijd naar mijn telefoon .
+Maar het geeft niet .
+Mijn kleine mensjes doen voor hoe ik moet leven en ik voel die universele zoem .
+Ik speel en ik speel tot ik me begin af te vragen waarom we daar zowiezo ooit mee zijn gestopt .
+Jullie kunnen het ook : iedere keer ja zeggen als je kinderen vragen om te spelen .
+Of denk je dat ik een idioot ben in diamanten schoenen ?
+Je hebt gelijk , maar dan nog kun je het doen .
+Je hebt tijd .
+Waarom ?
+Je kind vindt jou echt niet zo interessant .
+Het kost maar 15 minuten .
+Mijn kinderen van twee en vier willen maar een minuut of 15 met me spelen , dan willen ze alweer iets anders doen .
+Het zijn 15 opmerkelijke minuten , maar het zijn 15 minuten .
+Als ik geen lieveheersbeestje of snoep ben , verdwijn ik uit beeld na 15 minuten .
+En die van 13 , als ik een 13-jarige 15 minuten met me kan laten praten , ben ik Ouder van het Jaar .
+15 minuten is genoeg .
+Ik kan zelfs op mijn drukste dag echt wel 15 ongestoorde minuten missen .
+Ongestoord is het sleutelwoord .
+Geen telefoon , geen was , geen niks .
+Je hebt het druk , er moet eten op tafel komen .
+Je moet ze het bad in slepen , maar die 15 minuten kun je missen .
+Mijn kinderen zijn mijn geluksplek , ze zijn mijn wereld , maar het hoeven niet je kinderen te zijn die je zoem voeden , de plek waar het leven die positieve balans heeft .
+Het gaat niet over spelen met je kinderen , het gaat over geluk .
+Het gaat over spelen in zijn algemeenheid .
+Gun jezelf die 15 minuten .
+Vind uit wat voor jou werkt .
+Vind het uit en ga daar spelen .
+Ik ben er helemaal niet zo goed in .
+Wil je spelen ?
+Wat is er mis mee als ik mezelf 15 minuten de volle aandacht geef ?
+Niets , zo blijkt .
+Niet werken maakte het mogelijk voor de zoem om terug te keren , alsof de zoems motor pas kon bijtanken als ik er niet was .
+Werk werkt niet zonder spelen .
+Het duurt even , maar na een paar maanden gaan op een dag de sluisdeuren open en er is een vloedgolf .
+En ik sta opeens in mijn kantoor vol van een ongekende melodie voluit swingend in me en om me heen , mijn hoofd wemelend van de ideeën .
+Ik kan zo de weg op zoemen en gaan en blijven gaan en ik hou weer van mijn werk .
+Maar nu vind ik die zoem wel leuk , maar ik aanbid hem niet meer .
+Ik heb die zoem niet nodig .
+Ik ben die zoem niet .
+Niet meer .
+Ik ben bellenblaas en plakkerige vingers en etentjes met vrienden .
+Ik ben díe zoem .
+De zoem van het leven .
+De zoem van de liefde .
+De zoem van het werk is nog wel een deel van me , maar niet alles meer , en daar ben ik zo dankbaar voor .
+Een titan zijn zegt me niets , want ik heb nog nooit een titan verstoppertje zien spelen .
+Ik heb ja gezegd tegen minder werk en meer spelen , en toch draait alles nog .
+Mijn geest is nog steeds mondiaal , mijn kampvuren branden nog steeds .
+Hoe meer ik speel , hoe gelukkiger ik ben , hoe gelukkiger mijn kinderen zijn .
+Hoe meer ik speel , hoe meer ik me een goede moeder voel .
+Hoe meer ik speel , hoe vrijer mijn geest wordt .
+Hoe meer ik speel , hoe beter ik werk .
+Hoe meer ik speel , hoe meer ik die zoem voel , de wereld die ik bouw , de marathon die ik loop , de troepen , het canvas , de hoge noot , de zoem , de zoem , de andere zoem , de echte zoem , de zoem van het leven .
+Hoe meer ik die zoem voel , des te meer deze vreemde , trillende , ontpopte , rare , gloednieuwe , levende niet-titan aanvoelt als mezelf .
+Hoe meer ik die zoem voel , hoe beter ik weet wie ik ben .
+Ik ben schrijfster , ik verzin dingen , ik fantaseer .
+Die kant van het werk , dat is de droom .
+Dat is de droom van de baan .
+Want een droombaan hoort een beetje dromerig te zijn .
+Ik heb ja gezegd tegen minder werk en meer spelen .
+Titans hoeven niet te reageren .
+Zullen we spelen ?
+Dankjewel .
+Ik ben neurochirurg .
+Net als veel van mijn collega s heb ik elke dag met menselijke drama s te maken .
+Ik besef dat je leven in een seconde kan veranderen , na een beroerte of een ongeluk .
+Voor neurochirurgen is het zeer frustrerend dat de hersenen zich niet , zoals andere organen , vanzelf kunnen herstellen .
+Een zware beschadiging van het centrale zenuwstelsel veroorzaakt vaak een zware handicap .
+Daarom heb ik ervoor gekozen om functioneel neurochirurg te worden .
+Wat doet een functioneel neurochirurg ?
+Dat is een arts die neurologische functies verbetert middels chirurgische strategieën .
+Je kent vast wel die beroemde diepe hersenstimulatie , waarbij een electrode diep in het brein wordt geplaatst om een neuronencircuit aan te passen ter verbetering van een neurologische functie .
+Dat is fantastische technologie die het lot verbeterde van veel patiënten met Parkinson met ernstige tremor , met zware pijn .
+Aanpassen is echter niet hetzelfde als herstellen .
+De functionele neurochirurg droomt ervan om het brein te kunnen repareren .
+Ik denk dat deze droom naderbij komt .
+Ik wil u laten zien dat we hier dichtbij zijn , dat het brein met wat hulp zich kan herstellen .
+Het verhaal begint 15 jaar terug .
+Ik werkte toen dag en nacht op de afdeling spoedeisende hulp .
+Ik zag vaak patiënten met hoofdtrauma s .
+Het brein van een patiënt met een zwaar hoofdtrauma zwelt op en de druk op de schedel neemt toe .
+Om zijn leven te kunnen redden , moet je die druk verminderen .
+Daarvoor moet je soms een deel van het gezwollen brein weghalen .
+In plaats van die stukjes weg te gooien , besloten we ze samen met Jean-François Brunet , collega en bioloog , te onderzoeken .
+Wat bedoel ik hiermee ?
+We wilden cellen laten groeien uit deze stukjes .
+Dat is niet makkelijk .
+Cellen uit weefsel laten groeien , is zoiets als baby s laten opgroeien buiten hun gezin .
+Je hebt de juiste voeding nodig , warmte , vochtigheid en de juiste omgeving om ze te laten gedijen .
+Dat moesten we ook doen met deze cellen .
+Na veel pogingen , is het Jean-François gelukt .
+Dit zag hij onder zijn microscoop .
+Dat was een grote verrassing voor ons .
+Waarom ?
+Omdat het er precies zo uitziet als een stamcelcultuur , met grote groene cellen omringd door kleine , onrijpe cellen .
+Je weet vast nog wel uit de biologieles dat stamcellen onrijpe cellen zijn , die kunnen veranderen in elk type cel van het lichaam .
+Het volwassen brein heeft stamcellen , maar zeer weinig en ze zitten vestopt in diepe , kleine hoekjes diep in het brein .
+dus het was verrassend om deze stamcelcultuur te krijgen uit de buitenlaag van het gezwollen brein in onze operatiekamer .
+Er was nog een intrigerende observatie : gewone stamcellen zijn heel actief , ze delen en delen heel erg snel en ze zijn onsterfelijk .
+Maar deze cellen gedroegen zich anders .
+Ze delen langzaam , en na een paar weken op kweek , stierven ze zelfs .
+We hebben dus een vreemde nieuwe celpopulatie die eruit ziet als stamcellen maar zich anders gedraagt .
+Het duurde een tijd voor we begrepen waar ze vandaan kwamen .
+Ze komen uit deze cellen : die blauwe en rode cellen zijn doublecortin-positieve cellen .
+Je hebt ze allemaal in je brein .
+Ze beslaan 4 procent van je corticale hersencellen .
+Ze spelen een belangrijke rol in de ontwikkeling .
+Toen jullie nog foetussen waren , hielpen ze het brein om zich in te vouwen .
+Maar , waarom blijven ze in je hoofd ?
+Dat weten we niet .
+We denken dat ze het brein helpen te herstellen omdat we ze in hogere concentraties vinden bij hersenlaesies .
+Dit is echter niet zeker .
+Eén ding is zeker : uit deze cellen ontstaat onze stamcelcultuur .
+We stonden voor een potentieel nieuwe bron van cellen die het brein kunnen herstellen .
+We moesten het bewijzen , en daarom hebben we een experimenteel paradigma opgezet .
+We wilden een biopsie nemen van hersenweefsel dat niet in een spraakgebied ligt , en die cellen op kweek zetten , precies zoals Jean-François in zijn lab deed .
+We labelden ze daarna met kleur zodat we ze konden volgen in het brein .
+Tot slot wilden we ze herimplanteren in hetzelfde individu .
+We noemen dit autogene of autotransplantatie .
+Onze eerste vraag was : wat gebeurt er als we deze cellen in een normaal brein herimplanteren , en wat als we de dat doen in een beschadigd brein ?
+Dankzij de hulp van professor Eric Rouiller konden we met apen werken .
+Dus in het eerste scenario herimplanteerden we de cellen in een normaal brein .
+We zagen dat ze na enkele weken geheel verdwenen waren , alsof ze waren verwijderd .
+Ze gaan naar hun gebied en als er geen plaats is en ze niet nodig zijn , verdwijnen ze .
+In het tweede scenario hebben we een laesie gemaakt en daarna dezelfde cellen geherimplanteerd en nu bleven de cellen ter plaatse en ze werden volgroeide neuronen .
+Dit zagen we onder de microscoop , dit zijn de cellen die we herimplanteerden , en het bewijs : deze kleine vlekjes zijn de cellen die we in vitro labelden , toen ze op kweek stonden .
+Maar , we waren nog niet klaar .
+Kunnen deze cellen een aap helpen herstellen na een laesie ?
+We trainden de apen in een manuele taak .
+Ze moesten korreltjes voedsel van een blad afhalen .
+Ze waren er erg goed in .
+Toen ze een bepaald niveau hadden bereikt , maakten we een laesie in de motorische cortex waar de beweging van de hand zit .
+Dat verlamde de apen , ze konden hun hand niet meer bewegen .
+Net als mensen , herstelden ze vanzelf tot een bepaald niveau , net als na een beroerte .
+Patienten die geheel verlamd zijn proberen gedeeltelijk te herstellen , dankzij de plasticiteit van het brein , en zo ging het ook bij de aap .
+Toen we zeker wisten dat de aap het niveau had bereikt van spontaan herstel , implanteerden we zijn eigen cellen .
+Links ziet u de aap die spontaan hersteld is .
+Hij zit op 40 à 50 procent van zijn vermogen van voor de laesie .
+Hij is niet zo accuraat en snel .
+En kijk , toen we cellen herimplanteerden : dezelfde aap twee maanden na herimplantatie !
+Voor ons waren het ook opwindende resultaten .
+Sindsdien begrijpen we veel meer van deze cellen .
+We weten dat we ze kunnen cryopreserveren voor later gebruik .
+We kunnen ze gebruiken bij andere neurologische aandoeningen , zoals de ziekte van Parkinson .
+Het is nog steeds onze droom ze in mensen te implanteren .
+Ik hoop dat ik jullie snel kan laten zien dat het menselijke brein ons het gereedschap geeft zichzelf te herstellen .
+Dank je wel .
+Bruno Giussani : Jocelyne , dit is geweldig .
+Er zijn vast mensen in het publiek misschien de meerderheid , die denken : Ik ken iemand die dit kan gebruiken .
+Ik in elk geval wel .
+De vraag is nu : wat staat er in de weg voordat we dit op mensen kunnen testen ?
+Jocelyne Bloch : vooral regeltjes .
+BG : Begrijpelijk , want het brein is kwetsbaar , enz .
+JB : Ja , dat klopt , maar het kost veel tijd en geduld en bijna een heel team om het uit te voeren .
+BG : Kijk eens vooruit : je hebt onderzoek gedaan , en geprobeerd toestemming te krijgen om testen op te starten .
+Als je dan in de toekomst kijkt : hoeveel jaar dan tot iemand in het ziekenhuis komt en deze therapie beschikbaar is ?
+JB : Dat is moeilijk te zeggen .
+Eerst moet het onderzoek worden toegestaan .
+Zal de wet ons toestaan dat gauw te doen ?
+Dan moet je dit onderzoek uitvoeren met een kleine patiëntengroep .
+Het duurt lang om patiënten te selecteren , de behandeling te doen en het nut ervan te evalueren .
+Het onderzoek moet dan uitgebreid worden naar andere hospitalen en andere dokters .
+Eerst moet je het nut bewijzen , voor je het aan iedereen kunt aanbieden .
+BG : En veilig , natuurlijk .
+BG : Jocelyne , bedankt voor je komst en dit met ons te delen .
+BG : Dank je .
+Democratie .
+In het Westen maken we de kolossale fout haar voor lief te nemen .
+We zien democratie niet als de fragiele bloem die het in werkelijkheid is , maar we zien haar als deel van ons maatschappelijk interieur .
+We beschouwen het meestal als een onaantastbaar gegeven .
+We geloven abusievelijk dat kapitalisme onvermijdelijk leidt tot democratie .
+Dat is niet zo .
+Lee Kuan Yew in Singapore en zijn grote imitatoren in Peking hebben onomstotelijk aangetoond dat het heel goed mogelijk is om een bloeiend kapitalisme en spectaculaire groei te combineren met politiek die vrij is van enige democratie .
+Sterker nog : democratie is op haar retour in onze eigen contreien , hier in Europa .
+Eerder dit jaar , toen ik Griekenland vertegenwoordigde -- de nieuw gekozen Griekse regering -- in de Eurogroep , als Minister van Financiën , werd mij onomwonden verteld dat ons nationale democratische proces -- onze verkiezingen -- niet in de weg mocht staan van het economische beleid dat in Griekenland werd geïmplementeerd .
+Op dat moment had ik het gevoel dat Lee Kuan Yew en de Chinese Communistische Partij volledig in het gelijk werden gesteld , evenals enkele recalcitrante vrienden die mij voortdurend vertelden dat democratie verboden zou worden zodra ze iets zou dreigen te veranderen .
+Ik wil hier vanavond een lans breken voor de economische noodzaak van authentieke democratie .
+Ik wil jullie vragen om samen met mij weer te gaan geloven dat Lee Kuan Yew , de Chinese Communistische Partij en ook de Eurogroep fout zitten in hun aanname dat democratie overboord kan ; dat we een authentieke , levendige democratie nodig hebben .
+Zonder democratie zijn onze samenlevingen onplezieriger , ziet onze toekomst er grauw uit en zijn al onze geweldige nieuwe technologieën niet veel waard .
+Dat is zonde .
+Net als het volgende : er is een interessante paradox die momenteel onze economieën bedreigt .
+Ik noem het de twin peaks paradox .
+Een piek daarvan kent iedereen : dat is de berg schulden die zijn lange schaduw werpt over de Verenigde Staten , Europa , de hele wereld .
+Die schuldenberg herkent iedereen .
+Weinig mensen ontwaren echter zijn tweelingbroertje .
+Een berg sluimerend kapitaal van rijke spaarders en van bedrijven , die te bang zijn dit te investeren in de productieve activiteiten die de inkomens kunnen genereren waarmee je de schuldenberg teniet kan doen en die alle dingen produceren die de mensheid hard nodig heeft , zoals groene energie .
+Ik geef je twee cijfers .
+Gedurende de afgelopen 3 maanden hebben we in de VS , Groot Britannië en de Eurozone gezamenlijk 3,1 biljoen euro geïnvesteerd in alle welvaart brengende goederen -- dingen als fabrieken , machines , kantoorgebouwen , scholen , wegen , spoorlijnen , machines , enzovoort .
+3,1 biljoen euro lijkt veel geld tot je het vergelijkt met de 4,7 biljoen euro die in diezelfde landen lag te sluimeren in onze financiële instellingen , waar het gedurende die periode geen enkele functie had behalve hete lucht pompen in de aandelenbeurzen en de huizenmarkt .
+Je hebt dus een berg schulden en een berg sluimerend geld , twee pieken die verzuimen elkaar op te heffen door de normale werking van de markten .
+Dit resulteert in stagnerende lonen , ruim een kwart van de 25- tot 54-jarigen in Amerika , Japan en Europa zit zonder werk .
+Als gevolg is er een geringe totale vraag , wat in een vicieuze cirkel het pessimisme voedt van investeerders , die uit angst voor een geringe vraag deze voeden door niet te investeren -- net als de vader van Oedipus , die bang geworden door de voorspelling van het orakel dat zijn zoon hem later zal vermoorden , ongewild de voorwaarden schept waardoor zijn zoon Oedipus hem later inderdaad vermoordt .
+Dit is mijn probleem met kapitalisme .
+Het is zo zonde dat al dit sluimerende geld niet benut wordt om levens te verbeteren , menselijk talent te ontwikkelen en alle technologie te financieren , groene technologieën , die absoluut noodzakelijk zijn om onze planeet te redden .
+Heb ik gelijk als ik denk dat democratie de oplossing is ?
+Dat geloof ik , maar voordat we verder gaan : wat bedoelen we met democratie ?
+Aristoteles definieerde democratie als een structuur waarin de vrije en arme mensen -- die de meerderheid uitmaken -- bepalen wie er regeert .
+Nu sloot de Atheense democratie te veel mensen buiten .
+Vrouwen , migranten en uiteraard de slaven .
+Maar het zou fout zijn om het belang te negeren van de oude Atheense democratie , op basis van wie zij uitsloot .
+Wat relevanter was en is aan de oude Atheense democratie , is de inclusie van de werkende armen .
+Zij wonnen niet alleen het recht op vrije meningsuiting , maar belangrijker , en cruciaal : zij wonnen het recht op politieke meningen die serieus werden genomen in de besluitvorming inzake staatskwesties .
+Nu duurde de Atheense democratie natuurlijk niet lang .
+Als een fel brandende kaars doofde zij spoedig uit .
+Onze liberale democratieën vandaag de dag hebben hun wortels dan ook niet in het oude Athene .
+Zij wortelen in de Magna Carta , in de Roemrijke Omwenteling van 1688 en ook in de Amerikaanse grondwet .
+Waar de Atheense democratie gericht was op de vrije burger en het emanciperen van de werkende armen , steunen onze liberale democratieën op de traditie van de Magna Carta , dat immers een handvest was voor heersers .
+Liberale democratie stak dan ook pas de kop op toen het mogelijk was de politieke sfeer volledig te scheiden van de economische , opdat het democratische proces geheel beperkt werd tot de politieke sfeer en de economische sfeer -- de zakenwereld , zo je wil -- een democratie-vrije zone werd .
+Toen in onze huidige democratieën deze scheiding begon van de economische en de politieke sfeer , ontketende dit een onvermijdelijke , epische strijd tussen deze twee , waarin de economische sfeer de politieke sfeer koloniseerde en diens macht deels overnam .
+Heb je je ooit afgevraagd waarom politici niet meer zijn wat ze ooit waren ?
+Dat is niet omdat hun dna gedegenereerd is .
+Dat is omdat men tegenwoordig kan regeren zonder de macht te hebben : de macht is verplaatst van de politieke naar de economische sfeer , die er los van staat .
+Ik had het over mijn probleem met het kapitalisme .
+Dat kun je zo zien : het is als een populatie roofdieren die zo succesvol zijn in het decimeren van de prooi die hun voedsel is , dat ze uiteindelijk verhongeren .
+Op vergelijkbare wijze heeft de economische sfeer de politieke sfeer gekoloniseerd en gekannibaliseerd , zozeer dat ze zichzelf ondermijnt en economische crisis veroorzaakt .
+De macht van bedrijven neemt toe , politieke goederen dalen in waarde , ongelijkheid neemt toe , totale vraag neemt af en CEO s van bedrijven durven het geld van hun bedrijven niet te investeren .
+Hoe meer dus het kapitalisme de demos uit democratie weet te halen , des te hoger de twee pieken en des te groter de verspilling van menselijke hulpbronnen en menselijke welvaart .
+Het is duidelijk : als dit klopt , moeten we de politieke en economische sferen herenigen maar dan wel met een demos aan de macht , zoals in het oude Athene , maar dan zonder de slaven en de buitensluiting van vrouwen en migranten .
+Dit is geen origineel idee .
+De Marxisten hadden dit idee 100 jaar geleden en dat verliep niet zo geweldig .
+De les die wij kunnen trekken uit het Sovjet-debacle , is dat enkel door een wonder de armen geëmancipeerd kunnen worden zoals in het oude Athene , zonder nieuwe vormen van wreedheid en verspilling te scheppen .
+Maar er is een oplossing : elimineer de werkende armen .
+Het kapitalisme doet het door arbeiders te vervangen door automaten , androids en robots .
+Het probleem is dat zolang de economische en politieke sferen gescheiden zijn , automatisering ervoor zorgt dat de twee pieken groeien , de verspilling toeneemt , en de sociale conflicten verergert , inclusief -- spoedig , denk ik -- in landen als China .
+We moeten dus herconfigureren .
+We moeten de economische en politieke sferen weer bijeen brengen , maar dan wel door de herenigde sfeer te democratiseren , anders hebben we straks een hyper-autocratische surveillancestaat die de film De Matrix een documentaire doet lijken .
+De vraag is dus niet of het kapitalisme de technologische innovaties die het voortbrengt , zal overleven .
+Interessanter is de vraag wat er volgt op kapitalisme : een Matrix-achtige dystopie , óf iets dat lijkt op een Star Trek-samenleving , waarin machines mensen dienen en de mensen hun energie stoppen in het verkennen van het universum en zich verliezen in lange debatten over de zin van het leven , in een soort oud-Atheense high tech-agora .
+Ik denk dat we optimistisch mogen zijn .
+Maar wat is ervoor nodig , hoe zou dat eruit zien , om zo n Star Trek-achtige utopie te hebben in plaats van de Matrix-dystopie ?
+Praktisch gezien -- laat ik even een paar voorbeelden geven .
+Op het niveau van de onderneming -- stel je een kapitaalmarkt voor waarin je door te werken kapitaal verdient en waar je kapitaal je volgt van de ene baan naar de volgende , van bedrijf tot bedrijf , en het bedrijf -- hetgeen waarbij je op dat moment werkt -- is volledig eigendom van hen die daar op dat moment werken .
+Alle inkomens vloeien dan voort uit kapitaal , uit winst , en het hele concept van loondienst is dan achterhaald .
+Geen scheiding meer tussen wie het bedrijf bezit maar er niet werkt , en zij die er werken maar het bedrijf niet bezitten .
+Geen getouwtrek meer tussen kapitaal en arbeid ; geen grote kloof tussen investeren en sparen ; en géén twee torenhoge pieken .
+Op het niveau van de mondiale politieke economie -- stel je even voor dat onze nationale munten een vrij zwevende wisselkoers hebben met een universele , mondiale , digitale munt die wordt uitgegeven door het Internationale Monetaire Fonds , de G-20 , ten behoeve van de gehele mensheid .
+Stel je verder voor dat alle internationale handel plaatsvindt in deze munt -- laten we haar de cosmos noemen -- in eenheden van cosmos .
+Verder stort elke regering in een gezamenlijk fonds een aantal eenheden cosmos ter hoogte van hun handelstekort of juist hun nationale handelsoverschot .
+Stel je voor dat dit fonds wordt benut om te investeren in groene technologieën , met name in delen van de wereld waar men weinig te investeren heeft .
+Dit is geen nieuw idee .
+Het is feitelijk wat John Maynard Keynes in 1944 voorstelde op de Bretton Woods-conferentie .
+Destijds was het probleem dat ze de technologie niet hadden om het te implementeren .
+Nu hebben we die wel , vooral in de context van een herenigde politiek-economische sfeer .
+De wereld die ik je beschrijf , is tegelijkertijd libertair , want ze benadrukt de macht van het individu , Marxistisch , want ze verwijst de scheiding van kapitaal en arbeid naar de geschiedkundige prullenmand , en tevens Keynesiaans ...
+... mondiaal Keynesiaans .
+Maar bovenal is het een wereld waarin we ons een authentieke democratie zullen kunnen voorstellen .
+Komt zo n wereld eraan ?
+Of dalen we af in een Matrix-achtige dystopie ?
+Het antwoord ligt in de politieke keuze die wij gezamenlijk gaan maken .
+Het is onze keuze , en die kunnen we maar beter democratisch maken .
+Dank je wel .
+Bruno Giussani : Yanis ...
+Je beschreef jezelf in je bio als een libertaire Marxist .
+Welke relevantie hebben de analyses van Marx tegenwoordig ?
+Yanis Varoufakis : Als wat ik zojuist zei enige relevantie had , dan is Marx relevant .
+De hele gedachte achter hereniging van het politieke en het economische is : als we het niet doen , zal technologische innovatie de totale vraag zozeer doen afnemen -- wat Larry Summers noemt : seculaire stagnatie .
+Een crisis die over de wereld migreert , zoals nu het geval is , zal niet alleen onze democratieën destabiliseren , maar zelfs de opkomende landen , die niet zo happig zijn op liberale democratie .
+Dus als deze analyse hout snijdt , is Marx zeker relevant .
+Maar Hayek ook , daarom ben ik een liberaal Marxist .
+En Keynes ook ...
+... daarom ben ik totaal in de war .
+BG : Juist ... en wij mogelijk nu ook .
+YV : Als je niet verward bent , denk je niet na , oké ?
+BG : Dat klinkt precies als een oude Griekse filosoof -- YV : Dat was Einstein , trouwens -- BG : Gedurende je talk noemde je Singapore en China , en gisteravond tijdens het sprekersdiner had je een heel sterke mening over hoe het Westen naar China kijkt .
+Wil je die eens herhalen ?
+YV : Nou , er heerst veel hypocrisie .
+In onze liberale democratieën hebben we iets dat op democratie lijkt .
+We hebben de democratie volledig begrensd tot de politieke sfeer , terwijl we de sfeer waarin alle bedrijvigheid plaatsvindt , de economische sfeer , volledig democratie-loos houden .
+In zekere zin -- als ik even mag provoceren -- lijkt China tegenwoordig meer op Groot Brittannië in de 19e eeuw .
+Bedenk immers ...
+dat we liberalisme meestal met democratie associëren , klopt historisch gezien niet .
+Liberalisme -- dat is als John Stuart Mill .
+Die was bijzonder sceptisch over het democratische proces .
+Wat je nu in China ziet , is een proces dat erg lijkt op wat we hadden in Engeland gedurende de Industriële Revolutie , met name de transitie van de eerste naar de tweede .
+En om China te verwijten dat het doet wat het Westen deed in de 19e eeuw , riekt naar hypocrisie .
+BG : Veel mensen zullen hier benieuwd zijn naar je ervaringen als Minister van Financiën van Griekenland , eerder dit jaar .
+YV : Ik wist dat dit ging komen .
+BG : Hoe kijk je zes maanden later terug op de eerste helft van het jaar ?
+YV : Buitengewoon spannend , vanuit een persoonlijk perspectief , en zeer teleurstellend , want we hadden de gelegenheid tot een herstart van de Eurozone .
+Niet alleen Griekenland , de Eurozone .
+Om afstand te nemen van de zelfgenoegzaamheid en de voortdurende ontkenning dat er een enorme breuklijn zat , en zit , in de architectuur van de Eurozone , die een groot gevaar vormt voor het hele proces van de Europese Unie .
+We hadden een kans op basis van het Griekse programma -- dat overigens het eerste programma was waarin deze ontkenning zich manifesteerde -- om dit te verhelpen .
+Helaas koos de gevestigde macht van de Eurogroep ervoor om deze ontkenning te laten voortbestaan .
+Maar je weet hoe het gaat .
+Dit is de ervaring van de Sovjet Unie .
+Als je tracht om een economisch systeem in leven te houden , dat qua architectuur niet kan overleven , door politieke wil en door autoritarisme , verleng je misschien de levensduur ervan , maar de verandering die komt zal dan abrupt en catastrofaal zijn .
+BG : Wat voor soort verandering voorzie je ?
+YV : Het staat buiten kijf dat als we de architectuur van de Eurozone niet veranderen , de Eurozone geen toekomst heeft .
+BG : Maakte je wel eens fouten als Minister van Financiën ?
+YV : Elke dag .
+BG : Bijvoorbeeld ?
+Elke Minister van Financiën , of van eender wat trouwens , die je na zes maanden in dat ambt , vooral in zo n stressvolle situatie , vertelt dat hij geen fouten maakte , is een gevaarlijk iemand .
+Natuurlijk maakte ik fouten .
+De grootste fout was om de aanvraag te tekenen voor de verlenging van een leenovereenkomst , eind februari .
+Ik vooronderstelde dat de creditoren oprecht geïnteresseerd waren in het vinden van een gemeenschappelijke basis .
+Dat waren ze niet .
+Zij wilden onze overheid vermorzelen , enkel omdat ze niet bereid waren iets te doen aan de breuklijnen in de architectuur van de Eurozone en omdat ze niet wilden toegeven dat ze al vijf jaar een catastrofaal programma uitvoerden in Griekenland .
+We verloren eenderde van ons nominale BBP .
+Dat is erger dan de Grote Depressie .
+En niemand van de troika van geldschieters die dit beleid opgedrongen heeft , heeft nog toegegeven dat dit een kolossale fout was .
+BG : Ondanks dat alles , en ondanks de agressie van de discussie , lijk je nog steeds erg pro-Europees .
+YV : Absoluut .
+Kijk , mijn kritiek op de EU en de Eurozone komt van iemand die Europa in zijn bloed heeft zitten .
+Mijn grootste angst is dat de Eurozone niet zal overleven .
+Want als het misgaat , zullen de centrifugale krachten die dan vrijkomen , demonisch zijn , en ze zullen de Europese Unie vernietigen .
+Dat zal niet alleen voor Europa catastrofaal zijn , maar voor de hele mondiale economie .
+Wij zijn waarschijnlijk s werelds grootste economie .
+Als we toestaan dat we afglijden naar een postmoderne versie van de dertiger jaren , en daar lijkt het op , dan zal dat schadelijk zijn voor de toekomst van zowel Europeanen als non-Europeanen .
+BG : Wij hopen vurig dat je het op dat punt mis hebt .
+Yanis , dank je wel voor je komst .
+YV : Dank je wel .
+Van Roy Price hebben de meesten van jullie waarschijnlijk nog nooit gehoord , hoewel hij verantwoordelijk kan zijn geweest voor 22 middelmatige minuten van je leven , op 19 april 2013 .
+Hij kan ook verantwoordelijk zijn geweest voor 22 amusante minuten , maar niet voor velen van jullie .
+Dat had alles te maken met een beslissing die Roy zo n drie jaar geleden moest maken .
+Roy Price is senior manager bij de Amazon Studios , het televisieproductiebedrijf van Amazon .
+Hij is 47 jaar , slank , heeft stekelhaar en omschrijft zichzelf op Twitter als film , tv , technologie , taco s .
+Roy Price heeft een hele verantwoordelijke baan , want hij moet ervoor zorgen de goede shows te kiezen , de originele producties die Amazon gaat uitbrengen .
+Er zijn al zoveel televisie-shows dat Roy niet zomaar een show kan kiezen .
+Hij moet shows vinden die echt heel goed zijn .
+Met andere woorden , hij moet shows vinden die aan de goede kant van deze curve zitten .
+Deze curve toont de waarderingsverdeling van zo n 2500 tv-shows op de IMDb-website en de waardering loopt van 1 tot 10 .
+De hoogte hier toont hoeveel shows die waardering krijgen .
+Als je show dus een waardering krijgt van 9 punten of meer , dat is een topper .
+Dan hoort je show tot de top 2 procent .
+Dat zijn shows als Breaking Bad , Game of Thrones en The Wire , dus al die shows die verslavend zijn , shows waarvan je hersenen aan het einde van het seizoen zeggen : Waar kan ik nog meer afleveringen zien ?
+Zo n soort show .
+Links , voor de duidelijkheid , hier aan dit einde , heb je een show getiteld Toddlers and Tiaras -- -- dan weet je direct wat er aan dat eind van de curve gebeurt .
+Roy Price maakt zich geen zorgen om links op de curve te komen , omdat je volgens mij heel intelligent moet zijn om onder Toddlers and Tiaras te scoren .
+Waar hij zich dus zorgen om maakt , is deze bult in het midden , de bult van gemiddelde tv , de shows die niet echt goed of heel slecht zijn .
+Je raakt er niet echt opgewonden van .
+Hij moet er dus voor zorgen dat hij aan de rechterkant komt .
+De druk is dus hoog en het is natuurlijk ook de eerste keer dat Amazon iets dergelijks doet .
+Roy Price wil dus geen risico lopen .
+Hij wil succes creëren .
+Hij wil gegarandeerd succes en wat hij dus doet , is een wedstrijd houden .
+Hij neemt een aantal ideeën voor tv-shows en door evaluatie kiezen ze acht kandidaten voor tv-shows .
+Dan maakt hij de eerste aflevering van elk van deze shows en zet ze gratis online , zodat iedereen ze kan zien .
+Als Amazon dingen voor niks weggeeft , dan wil je het hebben ook , toch ?
+Dus zien miljoenen kijkers die afleveringen .
+Maar wat ze niet beseffen is dat , terwijl ze zitten te kijken , zij zelf ook bekeken worden .
+Ze worden bekeken door Roy Price en zijn team , die alles opslaan .
+Ze slaan op wanneer iemand op afspelen of op pauze drukt , welke stukken ze overslaan , welke worden herhaald .
+Ze verzamelen miljoenen gegevens , omdat ze die data willen hebben om te kunnen beslissen welke show ze moeten maken .
+Dus verzamelen ze die data en als die data zijn geanalyseerd rolt daar een antwoord uit , en dat antwoord is : Amazon moet een serie maken over vier Republikeinse senatoren .
+En dat deden ze .
+Weet iemand de naam van de show ?
+Ja , Alpha House , maar het lijkt erop dat niet veel mensen zich die show herinneren , hij pakte dan ook niet erg goed uit .
+Eigenlijk is het maar een doorsnee show , letterlijk , omdat het gemiddelde van deze curve hier 7,4 is en Alpha House kwam op 7,5 , dus net boven het gemiddelde , zeker niet waar Roy Price en zijn team op mikten .
+In de tussentijd echter , ongeveer tegelijkertijd , bij een ander bedrijf , slaagde een andere manager erin een topproductie te maken met data-analyse en zijn naam is Ted .
+Ted Sarandos is bij Netflix hoofd eigen productie en net als Roy is hij op een constante missie die geweldige tv-show te vinden ; hij gebruikt daarbij ook data , alleen doet hij het een beetje anders .
+In plaats van een competitie te houden keken hij -- en zijn team natuurlijk -- naar alle data die ze al hadden over Netflix-kijkers , dus de waarderingscijfers die ze geven , waar ze meestal naar kijken , wat ze leuk vinden , enz .
+Vervolgens gebruikten ze die data om elk detail over het publiek te ontdekken : welke shows ze leuk vinden , welke producers , welke acteurs .
+Zodra ze al die details bij elkaar hadden , namen ze een sprong in het diepe en besloten niet te kiezen voor een programma over vier senatoren maar voor een dramaserie over één senator .
+Kennen jullie die serie ?
+Ja , House of Cards , en Netflix had een voltreffer met die show , in ieder geval voor de eerste twee seizoenen .
+House of Cards scoort 9.1 op deze curve , precies waar ze wilden zitten .
+De vraag is nu natuurlijk : wat gebeurde hier ?
+Je hebt twee concurrerende data-bewuste bedrijven .
+Ze koppelen al deze miljoenen gegevens en dan pakt dat heel goed uit voor de een , maar niet voor de ander .
+Waarom eigenlijk ?
+Het lijkt zo vanzelfsprekend dat dit altijd zou moeten werken .
+Ik bedoel , als je miljoenen gegevens verzamelt voor een beslissing die je gaat nemen , dan zou je toch een goede beslissing moeten kunnen nemen .
+Je kunt steunen op 200 jaar statistiek .
+Je versterkt het nog met hele krachtige computers .
+Dan mag je toch in ieder geval wel goede televisie verwachten , niet ?
+Mocht data-analyse zo niet werken dan wordt het een beetje griezelig , want we leven in een tijd waarin we steeds meer op data afgaan om serieuze beslissingen te nemen die televisie ver te boven gaan .
+Kent iemand hier het bedrijf Multi-Health Systems ?
+Niemand .
+Multi-Health Systems is een software-bedrijf en ik hoop dat niemand hier in deze zaal ooit in contact komt met die software , want anders betekent het dat je in de gevangenis zit .
+Als iemand in de VS in de gevangenis zit en voorwaardelijk vrij wil komen , dan is het hoogstwaarschijnlijk dat data-analysesoftware van dat bedrijf gebruikt wordt om te bepalen of die aanvraag wordt gehonoreerd .
+Het is dus hetzelfde principe als bij Amazon en Netflix , maar in plaats van te beslissen of een tv-show het goed zal doen , beslis je nu of een persoon het goed of slecht gaat doen .
+Middelmatige tv , 22 minuten lang , kan heel slecht zijn , maar meer tijd in de gevangenis zelfs slechter , gok ik .
+Jammer genoeg zijn er zelfs bewijzen dat deze data-analyse , ondanks de beschikbaarheid van veel data , niet altijd de optimale resultaten geeft .
+Dat komt niet omdat een bedrijf als Multi-Health Systems niet met data om kan gaan .
+Zelfs de slimste data-analisten kunnen fout zitten .
+Ja , zelfs Google zit soms fout .
+In 2009 berichtte Google dat ze met data-analyse griep-epidemieën konden voorspellen , het vervelende soort griep , door data-analyse los te laten op wat mensen op Google opzochten .
+Het pakte wonderwel goed uit en het werd een hit in het nieuws , tot en met het toppunt van wetenschappelijk succes : een publicatie in het tijdschrift Nature .
+Eerst werkte het goed , jaar na jaar na jaar , tot het een bepaald jaar niet werkte .
+Niemand kon precies zeggen waarom .
+Het werkte dat jaar gewoon niet en dat haalde weer het nieuws natuurlijk , inclusief het terugtrekken van een publicatie in het tijdschrift Nature .
+Dus zelfs de grootste data-verzamelaars , Amazon en Google , hebben het soms mis .
+Ondanks al die mislukkingen neemt het gebruik van data snel toe bij beslissingen in het echte leven : op de werkvloer , bij wetshandhaving , de geneeskunde .
+We kunnen er dus maar beter voor zorgen dat die data ook helpen .
+Zelf heb ik veel gesteggel gezien bij het gebruiken van data , omdat ik werk in de computer-genetica , wat ook een terrein is waar veel slimme mensen ongelooflijke hoeveelheden data gebruiken om serieuze beslissingen te nemen , zoals over een kankertherapie of het ontwikkelen van een medicijn .
+Door de jaren heb ik een patroon zien ontstaan , of een soort regel als je wilt , over wat het verschil maakt tussen succesvolle beslissingen op basis van data en niet-succesvolle beslissingen .
+Ik vind dit een patroon dat ik wil delen en het gaat als volgt .
+Als je een complex probleem wilt oplossen , doe je in wezen twee dingen .
+Eerst deel je het probleem op in kleine stukjes , zodat je die onderdelen grondig kunt analyseren , en dan zet je natuurlijk de tweede stap : je doet al die stukjes weer bij elkaar en je komt tot een conclusie .
+Soms moet je het nog een keer doen , maar steeds draait het om twee dingen : uit elkaar halen en terug zetten .
+Het cruciale is dat voor data en data-analyse alleen het eerste deel werkt .
+Data en data-analyse , hoe indrukwekkend ook , helpen je alleen een probleem te ontrafelen en details te begrijpen .
+Het is niet geschikt om die stukjes weer bij elkaar te brengen en dan tot een conclusie te komen .
+Een ander hulpmiddel kan dat wel , en we hebben het allemaal : het brein .
+Waar het brein echt goed in is , is stukjes weer bij elkaar brengen , zelfs als je onvolledige informatie hebt , en tot een goede conclusie komen , zeker als het het brein van een expert is .
+Daarom geloof ik dat Netflix zo n succes had , omdat ze de data en het brein gebruikten waar ze in het proces thuishoren .
+Ze gebruiken data om eerst veel details van hun publiek te begrijpen , details die ze anders nooit zo grondig hadden kunnen begrijpen .
+Maar de beslissing om al deze losse stukjes weer bijeen te brengen en een show als House of Cards te maken , dat stond nergens in de data .
+Ted Sarandos en zijn team namen de beslissing om die serie goed te keuren , waarmee ze trouwens ook een groot persoonlijk risico namen .
+Bij Amazon deden ze het echter omgekeerd , dus fout .
+Ze gebruikten steeds data om hun beslissing te sturen , eerst toen ze hun wedstrijd van tv-ideeën hielden , en later toen ze besloten Alpha House te maken .
+Dat was voor hen een hele veilige beslissing , omdat ze altijd konden wijzen naar de data en zeggen : Dit zeggen de data ons .
+Maar het leidde niet tot de uitzonderlijke resultaten die ze hadden gehoopt .
+Data zijn dus een enorm nuttig middel om betere beslissingen te nemen , maar ik denk dat dingen fout gaan zodra data die beslissingen beginnen te sturen .
+Hoe sterk ze ook zijn , data zijn slechts een hulpmiddel en met dat in je achterhoofd vind ik dit ding hier heel nuttig .
+Velen van jullie zullen ... ..
+Voordat er data waren , was dit het hulpmiddel om beslissingen te nemen .
+Velen van jullie kennen het .
+Dit speeltje hier heet de Magic 8 Ball , heel verbazingwekkend , omdat als je een besluit moet nemen , een ja of nee vraag , je alleen de bal maar hoeft te schudden en dan krijg je het antwoord -- Hoogstwaarschijnlijk -- hier in dit venster , hier en nu .
+Ik laat hem straks rondgaan ter demonstratie .
+Wat ik natuurlijk wil zeggen is dat ik besluiten heb genomen in mijn leven waarbij ik achteraf toch naar de bal had moeten luisteren .
+Maar als je de data tot je beschikking hebt , wil je zo n bal door iets veel geavanceerders vervangen , zoals data-analyse , om tot een besluit te komen .
+Maar fundamenteel verandert er niets .
+De bal kan slimmer en slimmer en slimmer worden , maar ik denk dat wij nog steeds de beslissingen moeten nemen als we iets buitengewoons willen bereiken aan de rechterkant van de curve .
+Ik vind dat eigenlijk een hele bemoedigende boodschap , dat het zelfs onder het oog van grote hoeveelheden data loont om besluiten te nemen , om expert te zijn bij wat je doet en om risico s te nemen .
+Want uiteindelijk zijn het niet de data maar de risico s die je doen belanden aan de rechterzijde van de curve .
+Dank je wel .
