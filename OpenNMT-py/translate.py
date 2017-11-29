@@ -79,6 +79,10 @@ def main():
             gold_score_total += sum(gold_scores)
             gold_words_total += sum(len(x) for x in batch.tgt[1:])
 
+        #davidstap
+        #_, src_lengths = batch.src
+        #encStates, context = translator.model.encoder(src, src_lengths)
+
         # z_batch: an iterator over the predictions, their scores,
         # the gold sentence, its score, and the source sentence for each
         # sentence in the batch. It has to be zip_longest instead of
@@ -89,7 +93,10 @@ def main():
                 pred_scores, gold_scores,
                 (sent.squeeze(1) for sent in src.split(1, dim=1)))
 
+
         for pred_sents, gold_sent, pred_score, gold_score, src_sent in z_batch:
+            # src_sent is torch.LongTensor
+            #print('type src_sent:',type(src_sent))
             n_best_preds = [" ".join(pred) for pred in pred_sents[:opt.n_best]]
             out_file.write('\n'.join(n_best_preds))
             out_file.write('\n')
@@ -104,10 +111,39 @@ def main():
                                   (sent_number, words), 'UTF-8'))
 
                 best_pred = n_best_preds[0]
+
+                print('all predictions: ',n_best_preds)
+
                 best_score = pred_score[0]
                 os.write(1, bytes('PRED %d: %s\n' %
                                   (sent_number, best_pred), 'UTF-8'))
                 print("PRED SCORE: %.4f" % best_score)
+
+                # 'words' = input sentence
+                # 'best_pred' = prediction
+
+                # put source sentence in translator.model.encoder to find context
+                # maybe change data type src? torchtext datatype?
+
+                #model = NMTModel(encoder, decoder) (see ModelConstructor)
+                src_lengths = len(words.split())
+
+                # src(FloatTensor): a sequence of source tensors with
+                #         optional feature tensors of size (len x batch).
+                # tgt(FloatTensor): a sequence of target tensors with
+                #         optional feature tensors of size (len x batch).
+                # lengths([int]): an array of the src length.
+                # dec_state: A decoder state object
+
+
+
+
+                #hidden, context = translator.model.encoder(src_sent, src_lengths)
+
+
+
+                # euc_dist(context_r, context_pred)
+
 
                 if opt.tgt:
                     tgt_sent = ' '.join(gold_sent)

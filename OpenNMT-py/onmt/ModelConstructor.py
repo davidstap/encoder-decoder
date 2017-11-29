@@ -162,7 +162,7 @@ def make_base_model(model_opt, fields, gpu, checkpoint=None):
 
     # Load the model states from checkpoint or initialize them.
     if checkpoint is not None:
-        
+
 
         print('Loading model parameters.')
 
@@ -176,7 +176,7 @@ def make_base_model(model_opt, fields, gpu, checkpoint=None):
         # names in dict had to be changed (but only when using .pt from github, not if using Dieuwkes)
         #checkpoint['model']['encoder.embeddings.make_embedding.emb_luts.0.weight'] = checkpoint['model'].pop('encoder.embeddings.emb_luts.0.weight')
         #checkpoint['model']['decoder.embeddings.make_embedding.emb_luts.0.weight'] = checkpoint['model'].pop('decoder.embeddings.emb_luts.0.weight')
-        
+
 
         model.load_state_dict(checkpoint['model'])
         generator.load_state_dict(checkpoint['generator'])

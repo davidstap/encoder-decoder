@@ -8,6 +8,8 @@ import onmt.modules
 import onmt.IO
 from onmt.Utils import use_gpu
 
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics.pairwise import euclidean_distances
 
 class Translator(object):
     def __init__(self, opt, dummy_opt={}):
@@ -29,6 +31,8 @@ class Translator(object):
                             model_opt, self.fields, use_gpu(opt), checkpoint)
         self.model.eval()
         self.model.generator.eval()
+
+        self.previous_context = None
 
         # for debugging
         self.beam_accum = None
@@ -95,9 +99,22 @@ class Translator(object):
         _, src_lengths = batch.src
         src = onmt.IO.make_features(batch, 'src')
         encStates, context = self.model.encoder(src, src_lengths)
-        #pakken
+
+        # pakken
+        # na elke zin geprint dus translateBatch elke zin aangeroepen?
+        #print('translateBatch context =',context,src_lengths)
+
+        print(src)
+
+        final_context = context[-1,:,:].data.numpy()
+
+        if self.previous_context is not None:
+            print('dist: ',cosine_similarity(final_context, self.previous_context))
+
         decStates = self.model.decoder.init_decoder_state(
                                         src, context, encStates)
+
+        self.previous_context = context[-1,:,:].data.numpy()
 
         #  (1b) Initialize for the decoder.
         def var(a): return Variable(a, volatile=True)
