@@ -26,11 +26,23 @@
 
 - When running the code make sure you are located in the root folder.
 
-Command to preprocess the TED data, both English and Dutch:
+Command to preprocess the TED data (dev), both English and Dutch:
 ```
-python xml_preprocess.py IWSLT17.TED.dev2010.en-nl.en.xml en.txt
-python xml_preprocess.py IWSLT17.TED.dev2010.en-nl.nl.xml nl.txt
+python xml_preprocess.py IWSLT17.TED.dev2010.en-nl.en.xml en_dev.txt
+python xml_preprocess.py IWSLT17.TED.dev2010.en-nl.nl.xml nl_dev.txt
 ```
+Command to preprocess the TED data (tst), both English and Dutch:
+```
+python xml_preprocess.py IWSLT17.TED.tst2017.mltlng.en-nl.en.xml en_tst.txt
+python xml_preprocess.py IWSLT17.TED.tst2017.mltlng.nl-en.nl.xml nl_tst.txt
+```
+Command to preprocess the TED data (train), both English and Dutch:
+```
+python xml_preprocess.py train.tags.en-nl.en en_train.txt
+python xml_preprocess.py train.tags.nl-en.nl nl_train.txt
+```
+
+
 
 Command to translate `input_data.txt` using trained model (.pt file), result is stored in `write_to.txt`
 ```
