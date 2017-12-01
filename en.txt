@@ -6,3 +6,6 @@ It expands in winter and contracts in summer .
 It expands in summer and contracts in winter .
 It is cold outside .
 It is very cold outside .
+This is a nice sentence .
+This sentence is similar to a nice sentence .
+What is this string ? Totally not related to the other two lines .

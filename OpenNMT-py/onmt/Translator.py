@@ -31,7 +31,6 @@ class Translator(object):
                             model_opt, self.fields, use_gpu(opt), checkpoint)
         self.model.eval()
         self.model.generator.eval()
-
         self.previous_context = None
 
         # for debugging
@@ -92,6 +91,9 @@ class Translator(object):
         return goldScores
 
     def translateBatch(self, batch, dataset):
+
+        print('*'*80)
+
         beam_size = self.opt.beam_size
         batch_size = batch.batch_size
 
@@ -104,12 +106,17 @@ class Translator(object):
         # na elke zin geprint dus translateBatch elke zin aangeroepen?
         #print('translateBatch context =',context,src_lengths)
 
-        print(src)
 
         final_context = context[-1,:,:].data.numpy()
 
         if self.previous_context is not None:
-            print('dist: ',cosine_similarity(final_context, self.previous_context))
+            print('COS:  ', cosine_similarity(final_context, self.previous_context)[0][0])
+            #print(final_context, self.previous_context)
+        elif self.previous_context is None:
+            print('cos sim: undefined.')
+
+
+
 
         decStates = self.model.decoder.init_decoder_state(
                                         src, context, encStates)

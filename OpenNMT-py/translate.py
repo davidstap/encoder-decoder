@@ -7,6 +7,7 @@ import argparse
 import math
 import codecs
 import torch
+from nltk.translate.bleu_score import sentence_bleu, corpus_bleu
 
 import onmt
 import onmt.IO
@@ -43,8 +44,9 @@ def get_src_words(src_indices, index2str):
     return " ".join(words)
 
 
-def main():
 
+def main():
+    previous_words = None
     dummy_parser = argparse.ArgumentParser(description='train.py')
     opts.model_opts(dummy_parser)
     dummy_opt = dummy_parser.parse_known_args([])[0]
@@ -94,6 +96,7 @@ def main():
                 (sent.squeeze(1) for sent in src.split(1, dim=1)))
 
 
+
         for pred_sents, gold_sent, pred_score, gold_score, src_sent in z_batch:
             # src_sent is torch.LongTensor
             #print('type src_sent:',type(src_sent))
@@ -107,17 +110,37 @@ def main():
                 words = get_src_words(
                     src_sent, translator.fields["src"].vocab.itos)
 
-                os.write(1, bytes('\nSENT %d: %s\n' %
-                                  (sent_number, words), 'UTF-8'))
+
+
+
+                if previous_words is not None:
+
+                    print('BLEU: ',sentence_bleu([words], previous_words))
+                    print()
+                    print('S1:',words)
+                    print('S2:',previous_words)
+
+                #os.write(1, bytes('\nSENT %d: %s\n' %
+            #                      (sent_number, words), 'UTF-8'))
+
+                previous_words = words
+
+
 
                 best_pred = n_best_preds[0]
 
-                print('all predictions: ',n_best_preds)
+                #TODO: calculate BLEU score reference (best_pred) and hypothesis (words)
+                #TODO: calculate cosine_similarity (best_pred) and hypothesis (words)
+                #bleu_score = sentence_bleu(best_pred, words)
+                #print('BLEU: ',bleu_score)
+
+
+
 
                 best_score = pred_score[0]
-                os.write(1, bytes('PRED %d: %s\n' %
-                                  (sent_number, best_pred), 'UTF-8'))
-                print("PRED SCORE: %.4f" % best_score)
+                #os.write(1, bytes('PRED %d: %s\n' %
+            #                      (sent_number, best_pred), 'UTF-8'))
+                #print("PRED SCORE: %.4f" % best_score)
 
                 # 'words' = input sentence
                 # 'best_pred' = prediction
@@ -142,7 +165,7 @@ def main():
 
 
 
-                # euc_dist(context_r, context_pred)
+                #euc_dist(context_r, context_pred)
 
 
                 if opt.tgt:
