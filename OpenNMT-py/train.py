@@ -259,6 +259,10 @@ def build_optim(model, checkpoint):
 
 
 def main():
+    ## Joris testing stuff
+
+    ## Look at model parameters, defaults in opt.py
+    # print('\n',opt)
 
     # Load train and validate data.
     print("Loading train and validate data from '%s'" % opt.data)
@@ -279,6 +283,7 @@ def main():
         checkpoint = None
         model_opt = opt
 
+    ## Loads vocabulary
     # Load fields generated from preprocess phase.
     fields = load_fields(train, valid, checkpoint)
 
@@ -291,6 +296,18 @@ def main():
     model = build_model(model_opt, opt, fields, checkpoint)
     tally_parameters(model)
     check_save_model_path()
+
+    ## Load pre-trained decoder
+    # trained_decoder = ...
+
+    ## Freeze decoder weights during training time
+    print('Freezing model decoder weights...\n')
+    for param in model.decoder.parameters():
+        param.requires_grad = False
+    quit()
+
+    ## Replace decoder in to be trained model
+    # model.decoder = trained_decoder
 
     # Build optimizer.
     optim = build_optim(model, checkpoint)
