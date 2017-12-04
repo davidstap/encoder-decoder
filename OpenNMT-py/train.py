@@ -257,13 +257,7 @@ def build_optim(model, checkpoint):
 
     return optim
 
-
 def main():
-    ## Joris testing stuff
-
-    ## Look at model parameters, defaults in opt.py
-    # print('\n',opt)
-
     # Load train and validate data.
     print("Loading train and validate data from '%s'" % opt.data)
     train = torch.load(opt.data + '.train.pt')
@@ -283,7 +277,6 @@ def main():
         checkpoint = None
         model_opt = opt
 
-    ## Loads vocabulary
     # Load fields generated from preprocess phase.
     fields = load_fields(train, valid, checkpoint)
 
@@ -297,17 +290,51 @@ def main():
     tally_parameters(model)
     check_save_model_path()
 
-    ## Load pre-trained decoder
-    # trained_decoder = ...
+    # Build optimizer.
+    optim = build_optim(model, checkpoint)
 
-    ## Freeze decoder weights during training time
+    # Do training.
+    train_model(model, train, valid, fields, optim)
+
+def custom_main():
+    # Load train and validate data.
+    print("Loading train and validate data from '%s'" % opt.data)
+    train = torch.load(opt.data + '.train.pt')
+    valid = torch.load(opt.data + '.valid.pt')
+    print(' * number of training sentences: %d' % len(train))
+    print(' * maximum batch size: %d' % opt.batch_size)
+
+    # Load pre-trained model
+    print('Loading decoder from %s' % opt.train_from)
+    checkpoint = torch.load(opt.train_from,
+                            map_location=lambda storage, loc: storage)
+    model_opt = checkpoint['opt']
+    model_opt.save_model = opt.save_model
+
+    # Load fields (vocab) generated from preprocess phase.
+    fields = load_fields(train, valid, checkpoint)
+
+    # Collect features.
+    src_features = collect_features(train, fields)
+    for j, feat in enumerate(src_features):
+        print(' * src feature %d size = %d' % (j, len(fields[feat].vocab)))
+
+    # Build pre_trained model.
+    model_pre = build_model(model_opt, opt, fields, checkpoint)
+
+    # Build new model
+    model = build_model(opt, opt, fields, None)
+
+    # Use pre-trained decoder for new model and freeze weights
+    print('Replacing untrained decoder with the pre-trained decoder...')
+    model.decoder = model_pre.decoder
+    tally_parameters(model)
+    check_save_model_path()
+
+    # Freeze decoder weights during training time
     print('Freezing model decoder weights...\n')
     for param in model.decoder.parameters():
         param.requires_grad = False
-    quit()
-
-    ## Replace decoder in to be trained model
-    # model.decoder = trained_decoder
 
     # Build optimizer.
     optim = build_optim(model, checkpoint)
@@ -315,6 +342,6 @@ def main():
     # Do training.
     train_model(model, train, valid, fields, optim)
 
-
 if __name__ == "__main__":
-    main()
+    # main()
+    custom_main()

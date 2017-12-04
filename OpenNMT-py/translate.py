@@ -49,8 +49,8 @@ def main():
     previous_words = None
     dummy_parser = argparse.ArgumentParser(description='train.py')
     opts.model_opts(dummy_parser)
+
     dummy_opt = dummy_parser.parse_known_args([])[0]
-    print('dummy_opt: ',dummy_opt)
 
     opt.cuda = opt.gpu > -1
     if opt.cuda:

@@ -33,5 +33,3 @@ for line in sentences[0].splitlines():
 #print([word_tokenize(s) for s in sent_tokenize('Thank you very much, I appreciate it.')])
 
 #print(sentences[0])
-
-	
