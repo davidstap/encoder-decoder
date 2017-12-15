@@ -1,5 +1,5 @@
-200_1Als hij een publieke toespraak houdt dan kan dat alleen maar in gezelschap van lijfwachten .
-200_2Als hij een goede toespraak houdt dan kan dat alleen maar in gezelschap van lijfwachten .
+200_1Als hij een publieke toespraak houdt dan kan dat alleen maar in gezelschap van bewakers .
+200_2Als hij een goede toespraak houdt dan kan dat alleen maar in gezelschap van bewakers .
 200_3Als hij een goede toespraak houdt dan kan dat alleen maar in het park .
 200_3Als hij een goede dag heeft wandelt hij alleen in het park .
 
@@ -18,7 +18,7 @@
 803_3Dat betekent dat er een groot schip nodig is om een pond goede vangst te krijgen .
 803_4Dat betekent dat er een groot schip nodig is om de zee over te steken .
 
-910_1Het is nu het grootste en een van de meest belangrijke private vogeltoevluchtsoorden geworden in heel Europa . &quot;
+910_1Het is nu het grootste en een van de meest belangrijke private natuurgebieden geworden in heel Europa . &quot;
 910_2Het is nu het grootste en een van de meest belangrijke private bedrijven geworden in heel Europa . &quot;
 910_3Het is nu een van de meest innovatieve private bedrijven geworden in heel Europa . &quot;
 910_4Ze willen een van de meest innovatieve bedrijven worden in heel Europa . &quot;
@@ -33,10 +33,10 @@
 699_3Het ei wordt zelfs zo stevig beveiligd , dat ik het kan aanraken en dat het ei niet op de grond valt .
 699_4Het ei wordt zelfs zo goed beveiligd , dat ik het kan aanraken en dat het ei niet beweegt .
 
-666_1Werkend met universiteiten over heel Zwart Afrika , en we nodigen ze uit om sociale innovatie vaardigheden te leren .
-666_2Werkend met personen over heel Zwart Afrika , en we nodigen ze uit om sociale innovatie vaardigheden te leren .
-666_3Werkend met personen over heel Zwart Afrika , en we nodigen ze uit om veilig rijden te leren .
-666_4Werkend met personen over heel de wereld , en we dwingen ze om veilig rijden te leren .
+666_1We werken met universiteiten over heel Zwart Afrika , en we nodigen ze uit om sociale innovatie vaardigheden te leren .
+666_2We werken met personen over heel Zwart Afrika , en we nodigen ze uit om sociale innovatie vaardigheden te leren .
+666_3We werken met personen over heel Zwart Afrika , en we nodigen ze uit om veilig rijden te leren .
+666_4We werken met personen over heel de wereld , en we dwingen ze om veilig rijden te leren .
 
 447_1En mijn doel voor het volgend decennium is om het even makkelijk te maken om de wereld in het echte leven te redden zoals het is in games .
 447_1En mijn doel voor het volgend decennium is om het even makkelijk te maken om de wereld in het echte leven aan te passen zoals het is in games .
