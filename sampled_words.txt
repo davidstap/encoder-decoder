@@ -1,0 +1,25 @@
+nl_en_diff_nl = ['rijk', 'bekend', 'gek', 'zwemmers', 'aanstoot', 'afwas', 'charme', 'geleidend', 'pletten', 'pleinen']
+nl_en_diff_en = ['child', 'protect', 'environment', 'greatest', 'tree', 'risk', 'food', 'answer', 'weapon', 'graph']
+
+
+nl_en_same_nl = ['toespraak', 'urine', 'maar', 'missie', 'plant', 'boot', 'sport', 'lamp', 'wereld', 'water']
+nl_en_same_en = ['speech', 'urine', 'but', 'mission', 'plant', 'boat', 'sport', 'lamp', 'world', 'water']
+
+
+nl_en_diff_en = ['vis', 'uur', 'het', 'wetenschap', 'mensen', 'primaat', 'richting', 'slaap', 'kleingeld', 'inbox']
+nl_en_diff_nl = ['bee', 'blind', 'day', 'homeless', 'street', 'fish', 'hour', 'it', 'science', 'people']
+
+nl_nl_diff_1 = ['neerbuigend', 'implementatie', 'omdoen', 'omarming', 'rotsblok', 'sojabonen', 'gestelde', 'klep', 'gillend', 'deodorant']
+nl_nl_diff_2 = ['zeggen', 'vandaag', 'kennis', 'media', 'passen', 'context', 'artikel', 'bloed', 'haar', 'balans']
+
+nl_nl_same_1 = ['nodig', 'gelijk', 'afval', 'aanhouden', 'subject', 'designer', 'nerveus', 'sekse', 'steen', 'overgeven']
+nl_nl_same_2 = ['noodzakelijk', 'hetzelfde', 'vuil', 'blijven', 'onderwerp', 'ontwerper', 'gespannen', 'geslacht', 'rots', 'braken']
+
+nl_nl_diff = ['soortgelijks', 'spotgoedkoop', 'nazaten', 'marktrevolutie', 'variatie', 'fouten', 'röntgenfoto', 'experts', 'schaalvoordeel', 'verbazingwekkend']
+nl_nl_diff_2 = ['diamanten', 'epicentrum', 'weergaven', 'Keulse', 'wervelkolom', 'katrol', 'gekroond', 'Heiligheid', 'Schotse', 'Waarvan']
+
+en_en_diff_1 = ['fulfilled', 'schmuck', 'scrutinized', 'Foresight', 'Circle', 'interpret', 'multitask', '30', 'conspiring', 'Amerasians']
+en_en_diff_2 = ['Geraldine', 'propolis', 'geographies', 'race', 'bluff', 'Tighter', 'most', 'one-life', 'Westerner', 'X-Files']
+
+en_en_same_1 = ['cubicles', 'visitors', ]
+en_en_same_2 = ['offices', 'guests', ]
